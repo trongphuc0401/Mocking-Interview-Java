@@ -1,0 +1,22 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß›ÎÏ8©ÑÆ¿ò1J$1e3a93e4-2bec-4ce3-9001-883a691d7e63
+¿
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(àÜÕúÿÿÿÿÿ8½ãûÈò1J$b301566b-27ef-49a5-90f6-eb79fadcb512
+É
+java:S1130"€Remove the declaration of thrown exception 'java.util.concurrent.ExecutionException', as it cannot be thrown from method's body.(àÜÕúÿÿÿÿÿ8¿ãûÈò1J$ab161ba3-8e6a-4ad6-a293-52cf78dbc9eb
+–
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(äë…8µÑÆ¿ò1J$daf704b9-7763-4b72-a4dd-73dd78a00622
+†
+java:S1612"CReplace this lambda with method reference 'MathUtil2::getMailInfo'.(äë…8ÇãûÈò1J$7aa6ced7-6f74-4478-9ebf-1a1c7a6062cf
+t
+java:S1602
+",Remove useless curly braces around statement(ò÷ŒÍşÿÿÿÿ8¶ÑÆ¿ò1J$185dd46a-721a-41c7-a27d-3b6a28625739
+r	java:S106"+Replace this use of System.out by a logger.(˜€ü¯ûÿÿÿÿ8·ÑÆ¿ò1J$4db24515-933d-4b18-a384-c7ee20f88275
+–
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(äë…8¸ÑÆ¿ò1J$69f039a2-eccc-4b2f-ae53-66842ecfbcc9
+ƒ
+java:S1612"@Replace this lambda with method reference 'MathUtil2::sendMail'.(äë…8ÖãûÈò1J$c61220e2-3640-45da-9b61-8a809174e016
+o
+java:S1602",Remove useless curly braces around statement(óåÒ¥8¹ÑÆ¿ò1J$8f5aeeb5-974e-464b-81fd-c47ad9d58822
+‚
+java:S1612"?Replace this lambda with method reference 'MathUtil2::logging'.(óåÒ¥8ÜãûÈò1J$b6f4d5bc-56ca-4782-a03e-3b27cb607b38

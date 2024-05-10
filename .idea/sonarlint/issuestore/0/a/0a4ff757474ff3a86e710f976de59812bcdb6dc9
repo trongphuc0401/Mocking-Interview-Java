@@ -1,0 +1,13 @@
+
+’
+java:S2259]"J"NullPointerException" will be thrown when invoking method "deleteItem()".(Ëß²úúÿÿÿÿ8šáôòñ1J$1f5b0726-9cef-4a88-8520-ba36f0d5059c
+m	java:S106@"+Replace this use of System.out by a logger.(ÐÛ¼à8ïú×òñ1J$841c8252-7199-4c91-a1e7-02cdae40090a
+r	java:S106C"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ðú×òñ1J$b3a77c3e-19bd-4243-9cd8-eb13319656bf
+m	java:S106P"+Replace this use of System.out by a logger.( Œ÷†8ÉŠñòñ1J$75873f4c-7979-4667-9f30-93b6fc823252
+r	java:S106Q"+Replace this use of System.out by a logger.(ù£þÌþÿÿÿÿ8ÊŠñòñ1J$c4ec1289-df4a-4496-89d1-b01b0e6476ff
+m	java:S106U"+Replace this use of System.out by a logger.(ÏŽßÒ8É½òòñ1J$8cf6f6ba-ba42-4e39-9e04-f34daa470767
+r	java:S106Y"+Replace this use of System.out by a logger.(êëéžûÿÿÿÿ8×áóòñ1J$9f0afccb-10ef-4539-a48e-b9b7a9c521d5
+r	java:S106["+Replace this use of System.out by a logger.(äÚÍÖþÿÿÿÿ8Øáóòñ1J$523ffc00-2641-476c-9881-18a2965bff52
+L	java:S106_"+Replace this use of System.out by a logger.(¡½‡ãøÿÿÿÿ8Ÿžõòñ1
+v
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8úÖðòñ1J$e3c11a02-adc8-4f8e-8c9d-758dff9c1254

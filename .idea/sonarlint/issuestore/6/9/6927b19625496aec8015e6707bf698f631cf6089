@@ -1,0 +1,11 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ö³øÿÿÿÿ8úûØÕí1J$9f6f2e51-2b30-45c6-8a86-9729a398abbe
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8şûØÕí1J$c82dcb70-57d4-47ae-9100-279b0fe0ef30
+
+java:S3516"9Refactor this method to not always return the same value.(ÑÓ‡—şÿÿÿÿ8†§®ìí1J$5d3ae53f-15fe-43b3-92ef-534a37e56ad5
+u
+java:S1128"2Remove this unused import 'java.security.KeyPair'.(üúì›8“üØÕí1J$e48f42ee-5dd9-442d-bedb-6a28c51038c6
+|
+java:S1128"4Remove this unused import 'java.util.PriorityQueue'.(ÆãÑşøÿÿÿÿ8“üØÕí1J$d2dab0ea-f5cb-4842-ad50-6fbea0e80f3d
+o
+java:S1128",Remove this unused import 'java.util.Queue'.(Äá™ô8”üØÕí1J$246d72c0-231d-4dd7-a13c-99eeb3a27e7e

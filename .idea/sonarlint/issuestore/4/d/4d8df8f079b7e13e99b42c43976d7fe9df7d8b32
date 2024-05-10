@@ -1,0 +1,15 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²ÍÚÆùÿÿÿÿ8–‘ªƒó1J$aa67c9e2-0380-44a4-a694-a9e9723d1de4
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8˜‘ªƒó1J$3836a625-039c-42e3-b643-5a272d0aab53
+†
+java:S22593"CA "NullPointerException" could be thrown; "tempB" is nullable here.(ö‚Ø8ß‘ªƒó1J$51a4d587-6f93-4ace-8849-bd72e5c0cc1a
+‹
+java:S22592"CA "NullPointerException" could be thrown; "tempA" is nullable here.(’éöüÿÿÿÿ8ß‘ªƒó1J$e1392c4b-e90f-4d06-8acb-16b3e2e0332d
+‹
+java:S2259)"CA "NullPointerException" could be thrown; "tempA" is nullable here.(’éöüÿÿÿÿ8ß‘ªƒó1J$f27d771d-bb33-4b96-a54b-eaf4db046990
+†
+java:S2259-"CA "NullPointerException" could be thrown; "tempB" is nullable here.(ö‚Ø8Ş‘ªƒó1J$3a71fc78-e46a-4628-a6e2-91bce0c861e0
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(²ÍÚÆùÿÿÿÿ8æ‘ªƒó1J$3a91f85c-50a1-4dc2-ac84-d34593aa8e3c
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ò‘ªƒó1J$471784f7-6734-4160-bc3a-a555a03b9085

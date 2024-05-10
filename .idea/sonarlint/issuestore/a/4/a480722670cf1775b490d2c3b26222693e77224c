@@ -1,0 +1,13 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ž™¶˜8ÉüÏ‚ó1J$668c04e7-738b-451f-adff-70f7e330a5d7
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8ËüÏ‚ó1J$41708745-7a75-45d1-aec7-3ba522c6549b
+g
+java:S2440"$Remove this instantiation of "_160".(ˆ€È×8Õ”á‚ó1J$993112a6-4c15-4085-853d-b1c9b81291fe
+}
+java:S2209"5Change this instance-reference to a static reference.(¼†Öÿÿÿÿÿ8”Ù¦ó1J$bd7dae47-4fa9-418a-9f87-3efafd2a7e5f
+m	java:S106"+Replace this use of System.out by a logger.(®öî¬8„ýÏ‚ó1J$61ad08a7-3ef7-44a7-ae1f-5c8e0c17e77a
+m	java:S106"+Replace this use of System.out by a logger.(å­ßå8«²Õ‚ó1J$f448528b-dcd8-454e-958a-ffe12dc6e8e9
+†
+java:S1128">Remove this unused import 'LeetCode._160.getIntersectionNode'.(øÄÆ‹øÿÿÿÿ8–”Ù¦ó1J$f49626be-0edb-46d5-bc03-af6c5ecf4e8f
+…
+java:S1128"=Remove this unused import 'org.junit.jupiter.api.Assertions'.(âŽè¨ùÿÿÿÿ8—”Ù¦ó1J$c7cbfd34-33c0-491d-a17f-51f4742288fa

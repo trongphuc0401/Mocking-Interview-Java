@@ -1,0 +1,7 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÁº±üÿÿÿÿ8ØÅø­ó1J$4695b126-3472-4f63-bdd3-370d5ea3d61f
+¡	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(óÏ¸¡øÿÿÿÿ8àÅø­ó1J$8f48420b-d6fd-44cd-8526-29cbea234db1
+m	java:S106"+Replace this use of System.out by a logger.(þ…ËÎ8åÅø­ó1J$df2b0ab9-8db4-43c6-8b62-b3b0dea2b699
+†
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(¯šÓ‰ÿÿÿÿÿ8éÑù­ó1J$cac14c4e-53c7-40b0-b132-d755ba198020
+r	java:S106"+Replace this use of System.out by a logger.(»ýéŠùÿÿÿÿ8êÑù­ó1J$2be15fa3-f2f0-421b-a4ab-0c7297e8b16c

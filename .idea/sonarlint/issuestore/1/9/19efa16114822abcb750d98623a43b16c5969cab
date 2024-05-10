@@ -1,0 +1,8 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ÿ²ØÂúÿÿÿÿ8§³Óëê1J$7107ba53-0b0c-41d3-a9cc-4df23cdcdeb0
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8«³Óëê1J$27c92c92-4347-4c79-9c67-0b0b0715dce6
+˜
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒıÿÿÿÿ8Ñ³Óëê1J$7dc6c446-5464-4dce-a05f-b61acd67e2da
+}
+java:S2209"5Change this instance-reference to a static reference.(Ò°ıÙÿÿÿÿÿ8ÏÖëê1J$fad86fb5-3770-4aa7-9ce5-d9200b5ca732
+r	java:S106"+Replace this use of System.out by a logger.(®ıáëûÿÿÿÿ8¤Úëê1J$ab196a75-718e-4ff8-a098-0a5720aed876

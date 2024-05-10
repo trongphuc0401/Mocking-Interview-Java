@@ -1,0 +1,11 @@
+
+c
+java:S1126"AReplace this if-then-else statement by a single return statement.(Í‹ëŸüÿÿÿÿ8¬¨Ô•é1
+G
+java:S1197"*Move the array designators [] to the type.(¾†Ãó8°¨Ô•é1
+L
+java:S11970"*Move the array designators [] to the type.(®À¶’ùÿÿÿÿ8³¨Ô•é1
+I
+java:S11254"'Remove the unnecessary boolean literal.(¹’Ê¦ûÿÿÿÿ8µ¨Ô•é1
+G	java:S1065"+Replace this use of System.out by a logger.(îö¡­8¶¨Ô•é1
+L	java:S1068"+Replace this use of System.out by a logger.(«†’˜øÿÿÿÿ8·¨Ô•é1

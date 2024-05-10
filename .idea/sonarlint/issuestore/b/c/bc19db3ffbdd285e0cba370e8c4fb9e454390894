@@ -1,0 +1,26 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Öî„ÕJ$a7197c06-b153-48e0-ba2b-9b834aa8f6e6
+j
+java:S2189 ""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8ÛğòŒô1J$577968a4-eeab-4922-918b-43288bfd95d9
+¡
+java:S2142."^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8°°ñŒô1J$a6e291a5-4d62-474b-9ce5-55fd439ae8d9
+x
+java:S1874""0Remove this use of "getHours"; it is deprecated.(Ä‘şõüÿÿÿÿ8ğäñŒô1J$3744d573-f43d-46ab-a33f-789b253f5a57
+x
+java:S1874#"0Remove this use of "getHours"; it is deprecated.(î°¼œùÿÿÿÿ8ñäñŒô1J$bed0e8d3-4a49-4db5-9349-40e95b577eee
+x
+java:S1874$"0Remove this use of "getHours"; it is deprecated.(ş¶§şÿÿÿÿ8òäñŒô1J$7e4f7c83-1cbc-48e2-90e1-cca3773e143c
+u
+java:S1874%"2Remove this use of "getMinutes"; it is deprecated.(ÜŸŸ8óäñŒô1J$3f95ffdc-734d-47c3-8470-af100f9d250b
+z
+java:S1874&"2Remove this use of "getMinutes"; it is deprecated.(ñé›şüÿÿÿÿ8óäñŒô1J$000fc865-3ff9-48c5-9ddc-6bcd28dc248a
+z
+java:S1874'"2Remove this use of "getMinutes"; it is deprecated.(£Ù³ÿÿÿÿÿ8óäñŒô1J$e1ca0c8b-4c93-4101-baf0-e57758e8c5e3
+u
+java:S1874("2Remove this use of "getSeconds"; it is deprecated.(¼ÙÖ8ôäñŒô1J$2d926ba8-22c4-4183-9cff-953ec6635ff1
+z
+java:S1874)"2Remove this use of "getSeconds"; it is deprecated.(õäÍÄúÿÿÿÿ8ôäñŒô1J$5e138e89-2c09-4308-9591-6b26253a78eb
+u
+java:S1874*"2Remove this use of "getSeconds"; it is deprecated.(¿öÜÒ8õäñŒô1J$256d6f01-46fe-4a30-9f1c-ebf00706546c
+}
+java:S1128":Remove this unused import 'java.awt.event.WindowListener'.(èà•×8öÛôŒô1J$0e671ca1-52ec-49a3-96a5-868c70a74605

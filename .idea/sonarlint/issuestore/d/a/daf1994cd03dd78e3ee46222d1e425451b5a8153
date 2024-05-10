@@ -1,0 +1,18 @@
+
+•	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß›ÎÏJ$80e200d0-112d-4008-8e60-fbdc1150c6ae
+š
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(–Áîıÿÿÿÿ8ÑìüÁò1J$cb9e3799-8641-4824-a6b1-b7d20ae87451
+Ÿ
+java:S1612"WReplace this lambda with method reference 'CompletableFutureExample9::downloadWebPage'.(–Áîıÿÿÿÿ8’¤üÁò1J$b051418f-7860-4c11-a30c-b08dd7ad2c00
+›
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(À¯ç²úÿÿÿÿ8ôòşÁò1J$ca3bc737-6d21-41fc-a2d2-5036efd6dabb
+•
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹8õòşÁò1J$e52ee6cf-08fa-4f0b-9675-b8fc938aed3d
+‡
+java:S1612"DReplace this lambda with method reference 'CompletableFuture::join'.(êèå¦8üòşÁò1J$d8756152-d0cd-4e2b-a01d-4dc2f11a7f6e
+–
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Ñúİí8ä˜ÿÁò1J$43a70819-3f6c-4f5f-b628-b20ebfd48cd2
+r	java:S106""+Replace this use of System.out by a logger.(‘ó›×ûÿÿÿÿ8˜¤üÁò1J$3ebf73a5-4c52-430f-8727-c689a934943a
+L	java:S106("+Replace this use of System.out by a logger.(Äœ«×üÿÿÿÿ8¸ÇÿÁò1
+¡
+java:S2142+"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8™¤üÁò1J$a210e792-3960-4854-baa1-3af6db4ba54d

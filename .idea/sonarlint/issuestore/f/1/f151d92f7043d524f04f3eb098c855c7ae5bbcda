@@ -1,0 +1,16 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ®Ñ£øÿÿÿÿ8ßÏ›ñ1J$5ab8a76a-b325-424e-bad0-d9ac61380f35
+r	java:S106"+Replace this use of System.out by a logger.(€Åã¼øÿÿÿÿ8êÏ›ñ1J$64352291-94d8-4e00-8ceb-9d8b2a5f65d1
+l	java:S106"+Replace this use of System.out by a logger.(·Â78ìÏ›ñ1J$9600c197-1943-48eb-8635-00edc998448c
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8îÏ›ñ1J$61fa0320-8b81-4ba8-bd22-e623d6578a50
+m	java:S106"+Replace this use of System.out by a logger.(ÚÊâ»8ïÏ›ñ1J$21799f24-42af-49bc-b200-860ae6bd5ced
+r	java:S106"+Replace this use of System.out by a logger.(Ÿ«âçıÿÿÿÿ8ğÏ›ñ1J$4bd87915-d79a-4552-afae-b3387bcbee95
+l	java:S106"+Replace this use of System.out by a logger.(Çğõ"8ğÏ›ñ1J$49bf5e64-8124-4da3-8bd1-346c378f164e
+|
+java:S1161":Add the "@Override" annotation above this method signature(ú¡­,8òÏ›ñ1J$70c218b9-79b9-420f-8ef1-b4c98a2cba6d
+‹
+java:S3551"IMake this method "synchronized" to match the parent class implementation.(ú¡­,8óÏ›ñ1J$d857f1f0-add9-43eb-a15d-0bfaeac8697d
+r	java:S106 "+Replace this use of System.out by a logger.(³œ°ÿÿÿÿÿ8óÏ›ñ1J$e08d8c3f-0829-40b5-9fd1-d3ff6e0f76ae
+ƒ
+java:S2438#";Replace "this" of type Thread with an instance of Runnable.(Óå¾šúÿÿÿÿ8õÏ›ñ1J$aa9fc692-b848-40dd-b023-ef40a5c9d54b

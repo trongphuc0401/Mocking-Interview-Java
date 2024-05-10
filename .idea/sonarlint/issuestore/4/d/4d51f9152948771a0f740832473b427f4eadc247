@@ -1,0 +1,7 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ô¸Ôıûÿÿÿÿ8·¥Ìï1J$37b05690-26f9-44df-988b-a24dece226e8
+j
+java:S1125"'Remove the unnecessary boolean literal.(±†Û¦8ú¥Ìï1J$a23ed69f-7044-4247-bf6e-13618aa015d1
+o
+java:S1125"'Remove the unnecessary boolean literal.(ô¶¶¹ûÿÿÿÿ8ü¥Ìï1J$529baa09-79b2-4d14-bcc1-1ee9272df23b
+m	java:S106+"+Replace this use of System.out by a logger.(†Éà8³’‘Ìï1J$e66b48a6-8e25-4f02-85be-1477c8c63d0c

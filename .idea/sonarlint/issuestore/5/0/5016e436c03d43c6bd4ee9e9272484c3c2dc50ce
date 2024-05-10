@@ -1,0 +1,10 @@
+
+¡
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÃÓ½šıÿÿÿÿ8æ¦¡»ë1J$f0b56413-f19f-404e-b410-be948927aa00
+š
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ªˆœÊûÿÿÿÿ8ó¨¡»ë1J$a02d837e-5673-4541-b398-d802cb678c2c
+i	java:S131""Add a default case to this switch.(Œ¼’ şÿÿÿÿ8ú¨¡»ë1J$a3e08ac4-a7e3-4d50-9493-a7facc6ce4c3
+m	java:S106C"+Replace this use of System.out by a logger.(ãîªô8©¡»ë1J$52ad1996-1c47-47e4-bf8b-3c1362766b5b
+m	java:S106E"+Replace this use of System.out by a logger.(®›ó·8‚©¡»ë1J$310ad1db-6ed1-464f-8894-dfa70497b3e3
+m	java:S106H"+Replace this use of System.out by a logger.(ãîªô8·×¥»ë1J$b04af49c-5c2e-4f3a-a7eb-00e7e2553bc2
+m	java:S106J"+Replace this use of System.out by a logger.(®›ó·8¸×¥»ë1J$878a6eae-0a96-4104-a494-d4571b9bfcc1

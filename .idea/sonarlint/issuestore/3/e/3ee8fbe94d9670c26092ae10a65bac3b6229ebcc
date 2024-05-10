@@ -1,0 +1,9 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿ—áÝ8‡Ç½÷ô1J$e43bdb53-5097-48ba-9da8-f0c5a3f5b86d
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8‰Ç½÷ô1J$25edcc1d-4873-425f-8a72-899e0766427d
+m	java:S106,"+Replace this use of System.out by a logger.(Ô¾ÌÊ8—ÆÒ÷ô1J$7b015879-6f33-4d98-8684-0fd69cab6941
+m	java:S1063"+Replace this use of System.out by a logger.(ÝÝÌ8˜ÆÒ÷ô1J$b27e2530-e1f8-4fe0-8e0c-a306bac006a8
+m	java:S106;"+Replace this use of System.out by a logger.(á¦Ðå8œÆÒ÷ô1J$015fef80-60d5-43da-8349-97fcc09db865
+r	java:S106>"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ8ŸÆÒ÷ô1J$8a25f950-adf5-4617-a3f7-c8448339cbc0
+w
+java:S1128"4Remove this unused import 'dsa.linkedlist.Settings'.(›ÚÎ¶8¢ÆÒ÷ô1J$a01a7a9e-a06c-4254-90d6-c23ea12c5784

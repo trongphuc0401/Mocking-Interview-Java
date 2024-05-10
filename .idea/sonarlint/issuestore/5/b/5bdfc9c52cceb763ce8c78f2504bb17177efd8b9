@@ -1,0 +1,7 @@
+
+ô
+java:S1149"VReplace the synchronized class "Hashtable" by an unsynchronized one such as "HashMap".(∫Ê¨ç8ÅüΩØ‰1J$207e7614-4884-4da0-860d-f0c4d87627e4
+y
+java:S1854"6Remove this useless assignment to local variable "hs".(∫Ê¨ç8ÖüΩØ‰1J$54a83b44-8567-416a-ba7b-b6bebf387209
+j
+java:S1481"'Remove this unused "hs" local variable.(∫Ê¨ç8âüΩØ‰1J$55fe84c7-f12a-40cc-9918-5306302a129f
