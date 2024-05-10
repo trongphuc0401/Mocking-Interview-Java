@@ -1,0 +1,15 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à±Ø­ùÿÿÿÿ8ËÙ¾ô1J$4f219047-857b-4f43-8d17-6e46c461ce1c
+“	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ã¶†Ú8ÌÙ¾ô1J$1c44a058-95ad-470b-a6da-144cb4bb97a6
+˜	java:S117V"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğö¬›üÿÿÿÿ8ÌÙ¾ô1J$ad09be4d-ac27-41a3-9d71-e1ea03e3eafd
+r	java:S106%"+Replace this use of System.out by a logger.(ç‘›·şÿÿÿÿ8¸Ú¾ô1J$12789bae-b4f4-4452-ab4d-21c9cdb27bde
+
+java:S1854V"ERemove this useless assignment to local variable "intersection_list".(ğö¬›üÿÿÿÿ8¾Ú¾ô1J$1db58cc6-e6ab-4404-b194-fbbc9912951e
+~
+java:S1481V"6Remove this unused "intersection_list" local variable.(ğö¬›üÿÿÿÿ8ÀÚ¾ô1J$11f0bf17-c9dc-4161-9642-ba8c70c30170
+|
+java:S2864\"4Iterate over the "entrySet" instead of the "keySet".(˜Ş”İüÿÿÿÿ8ÂÚ¾ô1J$df0bdaf1-6464-4e80-8718-a9dfae50eea9
+m	java:S106u"+Replace this use of System.out by a logger.(¾ÅÌÄ8Ë¾š¾ô1J$74516f5f-828d-48c6-90af-a5e2f4085cf9
+r	java:S106w"+Replace this use of System.out by a logger.(å‰÷Çşÿÿÿÿ8Í¾š¾ô1J$ca00e729-5c03-43f6-8002-95aa059a8394
+w
+java:S1128"4Remove this unused import 'dsa.linkedlist.Settings'.(›ÚÎ¶8…ëœ¾ô1J$d5d7fab2-78a8-4801-a611-7c32827129df

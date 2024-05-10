@@ -1,0 +1,11 @@
+
+Œ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ³´íJ$67514cb2-d533-472f-9568-8d197c865e7e
+‘	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öäÂ–ÿÿÿÿÿJ$c5003f29-e90e-4ad7-9647-9edc78558605
+Œ	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æïÊâJ$5a462081-0098-468c-a67b-08c64cd961cb
+Œ	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æïÊâJ$7d443091-ddb5-4e14-acb4-518efadcd21d
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªêž ÿÿÿÿÿJ$4ebcce71-6cff-4433-ac92-22742c858f43
+k	java:S106%"+Replace this use of System.out by a logger.(ëþ¬ ÿÿÿÿÿJ$d10a5c35-6605-463e-ae4d-f789c07f11f5
+Ž
+java:S3776)"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.(æïÊâJ$91a34665-3c47-477a-bcdc-64fd12655286
+d
+java:S1172)"(Remove this unused method parameter "M".(æïÊâJ$fd352bc6-4342-4b24-a04e-7a1530f90d7b

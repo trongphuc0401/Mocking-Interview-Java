@@ -1,0 +1,18 @@
+
+¡
+java:S1192K"^Define a constant instead of duplicating this literal "Háº±ng sá»‘ khÃ´ng há»£p lá»‡" 3 times.(•åÜı8ŠöÄŠô1J$dfe5a2fb-14ed-48c5-872e-96983c09679b
+­
+java:S1192G"jDefine a constant instead of duplicating this literal "Háº±ng sá»‘ khÃ´ng Ä‘Æ°á»£c bá» trá»‘ng." 3 times.(ø“¸»8ŠöÄŠô1J$45285ffb-6825-45c9-b34b-2566e328f67d
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Â×°ø8öÄŠô1J$669fa92a-9741-4075-8b5b-24dd3457d648
+‹
+java:S3518/"CMake sure this expression can't be zero before doing this division.(ÉÒÃúÿÿÿÿ8ÀöÄŠô1J$c5e9a4c6-4c34-44b1-808c-48e8119a8db7
+‹
+java:S35185"CMake sure this expression can't be zero before doing this division.(·—îÓıÿÿÿÿ8ÁöÄŠô1J$eeac8d53-52ea-4700-921f-1bdfd0601938
+}
+java:S1854$":Remove this useless assignment to local variable "ketqua".(¤¿âó8ÈöÄŠô1J$852b0346-bbae-4824-86e4-29aa25b09fba
+‚
+java:S1854'":Remove this useless assignment to local variable "ketqua".(¹ÜÛæøÿÿÿÿ8ÈöÄŠô1J$c8911e96-8bc0-45b1-8618-2bfefad399f0
+h
+java:S1659-" Declare "x2" on a separate line.(ôºŸ…ıÿÿÿÿ8ÊöÄŠô1J$93ce2ce7-e344-4c75-8716-0361d97e90e8
+h
+java:S1128"%Remove this unused import 'java.awt'.(ï´µ©8×öÄŠô1J$5282975e-aa59-4dcd-be2d-02c74050a9a4

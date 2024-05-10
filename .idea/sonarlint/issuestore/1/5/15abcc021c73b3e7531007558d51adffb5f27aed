@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ööâöÿÿÿÿÿ8ƒú‘ßó1J$3e409fa7-4221-4429-bff5-0c8ea9cd3771
+m	java:S106
+"+Replace this use of System.out by a logger.(­Ê²è8”ú‘ßó1J$542380f7-601f-4109-9c3d-0efa4fe16a36
+l	java:S106"+Replace this use of System.out by a logger.(ëı¸w8–ú‘ßó1J$38af694c-d07d-4aa0-8a17-0be08794a9a6
+’
+java:S2674"JCheck the return value of the "skip" call to see how many bytes were read.(‰é¸úÿÿÿÿ8˜ú‘ßó1J$a2bec78f-6f0e-481d-bb6f-57bcf5ee956c
+k	java:S106"+Replace this use of System.out by a logger.(”À8åÿ’ßó1J$659d2b6b-10fc-42dd-a66c-e39031de221f

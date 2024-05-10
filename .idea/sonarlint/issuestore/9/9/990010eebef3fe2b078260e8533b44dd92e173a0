@@ -1,0 +1,11 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(æùÒúÿÿÿÿ8ò¡¥ıé1J$664c0810-a103-4093-bdfa-738a84d5171f
+k
+java:S54110"(Use a primitive boolean expression here.(¦ãåâ8õ¡¥ıé1J$b5bc2505-71a4-435d-a346-56b9e453d01f
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8÷¡¥ıé1J$c6a33353-d1f7-4b4b-b02b-b55100fcbc02
+j
+java:S11250"'Remove the unnecessary boolean literal.(¦ãåâ8¢¥ıé1J$5c74fd75-ba69-4e68-9f07-1ec1618c663e
+g
+java:S1659?"Declare "t" on a separate line.(¢ÌÊÛøÿÿÿÿ8“¢¥ıé1J$56e418f5-ebdc-46c6-b2b3-8750e0b8d5c8
+x
+java:S2209A"5Change this instance-reference to a static reference.(ëÜß×8ƒŠ¦ıé1J$d5633ccb-ec15-42ff-85c0-f45ad149b718

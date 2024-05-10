@@ -1,0 +1,14 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Α¤¤λ8κΑλ1J$c56357d4-b9ea-407a-af54-2976181a7ada
+΅	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡αΊ΄ϊÿÿÿÿ8λΑλ1J$9d386746-0a2c-4308-a6fa-df8243b2b267
+
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(δΗε―όÿÿÿÿ8°‘Αλ1J$944b834f-9836-4a8f-b434-194ba19b32a9
+
+java:S1149 "PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ύδ£ΰϊÿÿÿÿ8°‘Αλ1J$c4f7e074-c7a6-42e7-afa6-aacc639554ea
+~	java:S125"<This block of commented-out lines of code should be removed.(ΠΕ‹Ϋ8±‘Αλ1J$2f47cca0-dca3-421e-b14a-5413b040ab16
+m	java:S106?"+Replace this use of System.out by a logger.(ϋεσ8Ί‘Αλ1J$b06ae274-d6a0-4cdc-b680-c765ef069cf9
+m	java:S106A"+Replace this use of System.out by a logger.(δγ–8Ί‘Αλ1J$5120fd49-0382-4a95-82ad-5f867a8fc461
+y
+java:S1128"1Remove this unused import 'java.util.ArrayDeque'.(†®ήΦϊÿÿÿÿ8½‘Αλ1J$cafb9a41-8737-40ec-b371-b325a2173365
+t
+java:S1128",Remove this unused import 'java.util.Deque'.(³Γ―¥ώÿÿÿÿ8Ύ‘Αλ1J$7eee5015-3d34-466d-a541-1b451cfd5737

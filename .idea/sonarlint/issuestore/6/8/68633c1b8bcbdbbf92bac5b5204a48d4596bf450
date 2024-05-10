@@ -1,0 +1,8 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û—¡öùÿÿÿÿ8ğØ×Íñ1J$9c1074a8-94cc-465c-8ae2-b7106d0290dd
+m	java:S106"+Replace this use of System.out by a logger.(ë¦¯œ8†Ù×Íñ1J$78fa178a-3c02-416a-bceb-ff517e3d12d8
+l	java:S106"+Replace this use of System.out by a logger.(ÔÌñ8‰Ù×Íñ1J$ebccd973-621c-4e6c-9580-96b080ababc1
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‹Ù×Íñ1J$9d21550b-96d0-4bb4-aa13-efad3e31ab1a
+•
+java:S1128"MRemove this unused import 'Multi_threading.java.synchronizedd.WorkingThread'.(ª¨í’ûÿÿÿÿ8Ù×Íñ1J$fa475a3d-4af6-4068-9bdb-a91b18f9e144

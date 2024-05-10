@@ -1,0 +1,9 @@
+
+w
+java:S3740"/Provide the parametrized type for this generic.(‡îÍðýÿÿÿÿ8“Ž¢±î1J$f06c5fe3-1b7c-4b38-8b1b-35f24ee359c9
+¡
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(µÛóŸýÿÿÿÿ8•Ž¢±î1J$e647e653-1e7e-4d69-8156-7316d707051f
+˜	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(µÛóŸýÿÿÿÿ8–Ž¢±î1J$f101aa4d-557f-4676-a36c-01dbd9a00427
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Üô÷ìþÿÿÿÿ8™Ž¢±î1J$db73deec-5bf5-416a-96d2-17d6d72ad718
+m	java:S106"+Replace this use of System.out by a logger.(¥£„è8¦Ž¢±î1J$42efa056-b606-4681-89f8-f4cb8e0e2ad0
+m	java:S106"+Replace this use of System.out by a logger.(îë°Ç8¨Ž¢±î1J$965c637c-7125-445e-bbc8-fb69af14b59e

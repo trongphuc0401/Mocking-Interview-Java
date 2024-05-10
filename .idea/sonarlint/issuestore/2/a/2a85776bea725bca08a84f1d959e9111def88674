@@ -1,0 +1,9 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÆËÄ÷ûÿÿÿÿ8«–óëñ1J$2ad50452-058e-40b3-9f1c-c37f0c7c82ce
+p	java:S108")Either remove or fill this block of code.(òÊË‰ùÿÿÿÿ8¹–óëñ1J$cee2d208-2db7-40b0-83ef-f30dd9429f14
+¡
+java:S2142'"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(üŸ´Â8¾–óëñ1J$75bde645-83af-4dfd-b0a6-14b6a50d53fc
+G	java:S106+"+Replace this use of System.out by a logger.(àÚé„8£Çóëñ1
+L	java:S106,"+Replace this use of System.out by a logger.(„¸Ÿûÿÿÿÿ8¤Çóëñ1
+_
+java:S1128"=Remove this unused import 'org.junit.jupiter.api.Assertions'.(âè¨ùÿÿÿÿ8ıÂ×Ÿò1

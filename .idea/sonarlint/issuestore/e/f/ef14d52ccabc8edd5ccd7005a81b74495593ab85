@@ -1,0 +1,12 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ®Ñ£øÿÿÿÿJ$f41afcda-fa05-47c9-84e4-8cdbce4f95f9
+G	java:S106"+Replace this use of System.out by a logger.(¹œı8çóûÄó1
+f
+java:S2445"I"args" is a method parameter, and should not be used for synchronization.(ƒØëİ8ìóûÄó1
+L	java:S106	"+Replace this use of System.out by a logger.(ä®ª™üÿÿÿÿ8íóûÄó1
+€
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ğ‹Ù¼ùÿÿÿÿ8îóûÄó1
+W
+java:S2274":Remove this call to "wait" or move it into a "while" loop.(ù˜«ô8ğóûÄó1
+J	java:S108")Either remove or fill this block of code.(ğ‹Ù¼ùÿÿÿÿ8òóûÄó1
+L	java:S106"+Replace this use of System.out by a logger.(¾ëÁ°şÿÿÿÿ8óóûÄó1

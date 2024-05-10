@@ -1,0 +1,39 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úèğ±üÿÿÿÿ8ü¬Ã¡ò1J$92827fb4-491e-4eca-a4e1-5d606094dcbe
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(İ¾ë¾ıÿÿÿÿ8•­Ã¡ò1J$04e82659-3d47-4948-aee1-fc6e0bec7ceb
+m
+java:S3457"%String contains no format specifiers.(İ¾ë¾ıÿÿÿÿ8•­Ã¡ò1J$1183ff69-8a18-4a18-90c6-ab35cae34e3b
+r	java:S106"+Replace this use of System.out by a logger.(İ¾ë¾ıÿÿÿÿ8–­Ã¡ò1J$0f9bd627-cc1f-4151-bce1-a2b1038b0de4
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(’İ¼±øÿÿÿÿ8–­Ã¡ò1J$1e6aa910-f693-4e37-bd34-25156f552bb0
+r	java:S106"+Replace this use of System.out by a logger.(’İ¼±øÿÿÿÿ8–­Ã¡ò1J$84722914-1fb2-4551-8158-07ffa5e54f47
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ßŠ€»ûÿÿÿÿ8—­Ã¡ò1J$697aa795-7ae4-4154-98f1-0137680082b6
+r	java:S106"+Replace this use of System.out by a logger.(ßŠ€»ûÿÿÿÿ8˜­Ã¡ò1J$4cdc6bc2-1793-4662-b7ad-add91639164a
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÌÃÅîşÿÿÿÿ8˜­Ã¡ò1J$d78a8f0a-5034-45e8-904a-efacf0c6b8ff
+r	java:S106"+Replace this use of System.out by a logger.(ÌÃÅîşÿÿÿÿ8˜­Ã¡ò1J$c56c3065-c4f6-49a3-9733-8b3f8374d733
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¥¯À¬øÿÿÿÿ8™­Ã¡ò1J$24c9e47e-95fb-4115-a906-00602a663f4b
+r	java:S106"+Replace this use of System.out by a logger.(¥¯À¬øÿÿÿÿ8™­Ã¡ò1J$249f7ee2-eb9a-4c8d-bf2f-c1b11059f6e0
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(İ¾ë¾ıÿÿÿÿ8š­Ã¡ò1J$8a55d29d-d41e-4b80-b889-2da3ae424566
+m
+java:S3457"%String contains no format specifiers.(İ¾ë¾ıÿÿÿÿ8š­Ã¡ò1J$efa7a496-a3e7-46ef-850e-503cd5786150
+r	java:S106"+Replace this use of System.out by a logger.(İ¾ë¾ıÿÿÿÿ8š­Ã¡ò1J$5b6f5fa1-bfd8-4839-b3a3-48d6767c9015
+¡
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8›­Ã¡ò1J$323ee4c7-9c78-4bf8-a834-94e47d1d66c7
+™
+java:S3457'"Q%n should be used in place of \n to produce the platform-specific line separator.(›ß­ùÿÿÿÿ8œ­Ã¡ò1J$d1f8ccf4-f13c-4203-8847-ac403cb1f2b9
+r	java:S106'"+Replace this use of System.out by a logger.(›ß­ùÿÿÿÿ8œ­Ã¡ò1J$01437b75-950e-4568-a9ba-e6848269fe12
+™
+java:S3457("Q%n should be used in place of \n to produce the platform-specific line separator.(¸ÌÄöùÿÿÿÿ8­Ã¡ò1J$8dddc125-8877-4d50-b7fc-f41fad820a56
+r	java:S106("+Replace this use of System.out by a logger.(¸ÌÄöùÿÿÿÿ8­Ã¡ò1J$f871c496-c434-4d04-a34a-684ff046d735
+™
+java:S3457)"Q%n should be used in place of \n to produce the platform-specific line separator.(ß©Éüÿÿÿÿ8Ÿ­Ã¡ò1J$78f393e0-186c-4010-a485-ff75afdf8109
+r	java:S106)"+Replace this use of System.out by a logger.(ß©Éüÿÿÿÿ8Ÿ­Ã¡ò1J$b23e6d89-37b3-4722-8dab-db643166335e
+z
+java:S1128"7Remove this unused import 'org.junit.jupiter.api.Test'.(Öºˆß8¡­Ã¡ò1J$d8ff48eb-9c62-4c93-9944-ab5ec4b1e196
+…
+java:S1128"=Remove this unused import 'org.junit.jupiter.api.Assertions'.(âè¨ùÿÿÿÿ8¡­Ã¡ò1J$a0fb10f0-a1e7-478a-880a-8d9d1132a6da

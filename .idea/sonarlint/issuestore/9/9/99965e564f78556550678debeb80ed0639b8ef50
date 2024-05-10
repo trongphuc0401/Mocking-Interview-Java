@@ -1,0 +1,86 @@
+
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ïŸ²ùÿÿÿÿ
+l	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²²äùÿÿÿÿ
+l	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²²äùÿÿÿÿ
+l	java:S117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ìÒ×ÿÿÿÿÿ
+l	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æçèıÿÿÿÿ
+l	java:S117ş"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜ïŸ²ùÿÿÿÿ
+g	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªù¹¯
+I
+java:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199­"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ªê ÿÿÿÿÿ
+ˆ
+java:S2681÷"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Ëƒıò
+ˆ
+java:S2681¯"qThis statement will not be executed in a loop; only the first statement will be. The rest will execute only once.(Öš€Ø
+k
+java:S3008"PRename this field "INPUT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—ˆ¢üÿÿÿÿ
+:
+java:S1659 "$Declare "ptrbuf" on a separate line.(ªçñ
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 54 to the 15 allowed.(šØ„×
+P
+java:S1854"5Remove this useless assignment to local variable "S".(˜ïŸ²ùÿÿÿÿ
+S
+java:S1854h"=Remove this useless assignment to local variable "bestscore".(ä«İ
+5
+java:S1659"Declare "m" on a separate line.(•÷ÇĞ
+;
+java:S1659" Declare "sc" on a separate line.(ãĞÿ¢úÿÿÿÿ
+A
+java:S1481"&Remove this unused "S" local variable.(˜ïŸ²ùÿÿÿÿ
+V	java:S125G"<This block of commented-out lines of code should be removed.(¶–´×øÿÿÿÿ
+D
+java:S1481h".Remove this unused "bestscore" local variable.(ä«İ
+Q	java:S125j"<This block of commented-out lines of code should be removed.(®»¹õ
+V
+java:S1119u";Refactor the code to remove this label and the need for it.(¬é÷àøÿÿÿÿ
+Q
+java:S1854Ë"5Remove this useless assignment to local variable "n".(öğâûÿÿÿÿ
+B
+java:S1481Ë"&Remove this unused "n" local variable.(öğâûÿÿÿÿ
+?
+java:S4274ç"(Replace this assert with a proper check.(ÿÌ¹
+Q
+java:S1854§"5Remove this useless assignment to local variable "n".(öğâûÿÿÿÿ
+B
+java:S1481§"&Remove this unused "n" local variable.(öğâûÿÿÿÿ
+n
+java:S3776Â"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ú¤•¬ûÿÿÿÿ
+F
+java:S1172Â"*Remove this unused method parameter "map".(Ú¤•¬ûÿÿÿÿ
+6
+java:S1659÷"Declare "d" on a separate line.(Ëƒıò
+Q
+java:S1854ş"5Remove this useless assignment to local variable "S".(˜ïŸ²ùÿÿÿÿ
+L
+java:S1854„"5Remove this useless assignment to local variable "G".(ªù¹¯
+ƒ
+java:S1130ü"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÍõÏú
+B
+java:S1481ş"&Remove this unused "S" local variable.(˜ïŸ²ùÿÿÿÿ
+F	java:S106€"+Replace this use of System.out by a logger.(£Üıÿÿÿÿ
+=
+java:S1481„"&Remove this unused "G" local variable.(ªù¹¯
+W	java:S125®"<This block of commented-out lines of code should be removed.(µÊşÿÿÿÿ
+;
+java:S1659Â"Declare "p" on a separate line.(æïˆºıÿÿÿÿ
+6
+java:S1659Ú"Declare "b" on a separate line.(—ÔÀ
+A	java:S106"+Replace this use of System.out by a logger.(‰÷Ú©
+?
+java:S1144ˆ"(Remove this unused private "eof" method.(ÚÊæ 
+>
+java:S1144±"'Remove this unused private "nd" method.(Øò­á
+C
+java:S1144²"'Remove this unused private "nc" method.(ÀÇ¾‚üÿÿÿÿ
+=
+java:S1144Ñ"'Remove this unused private "na" method.(®áši
+=
+java:S1144ì"'Remove this unused private "nl" method.(÷ã‚
+>
+java:S1144"'Remove this unused private "tr" method.(‰÷Ú©
+Ü
+java:S6541"ÅA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 71 to 64, Complexity from 19 to 14, Nesting Level from 6 to 2, Number of Variables from 35 to 6.(šØ„×

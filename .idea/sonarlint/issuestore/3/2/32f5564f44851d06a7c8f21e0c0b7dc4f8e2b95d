@@ -1,0 +1,10 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÁ.8Ù¬Æó1J$66c855c3-7dbb-4afb-8097-00af5f9c54e6
+„
+java:S2259"AA "NullPointerException" could be thrown; "ois" is nullable here.(¨ÿÃš8”óÎÆó1J$a6bd85cf-8eb7-4ebb-a6fd-73e3908fb03a
+„
+java:S1075
+"ARefactor your code to get this URI from a customizable parameter.(¶¹á8˜óÎÆó1J$befcbe52-261f-4c15-b708-61cab8233dec
+r	java:S106"+Replace this use of System.out by a logger.(Ê¡¥•ıÿÿÿÿ8ê¬Æó1J$114d64fd-5655-48fc-8fad-b7bb867f4755
+r
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8óç¬Æó1J$1273cebf-ba41-4f1b-a13a-b9dfde420049

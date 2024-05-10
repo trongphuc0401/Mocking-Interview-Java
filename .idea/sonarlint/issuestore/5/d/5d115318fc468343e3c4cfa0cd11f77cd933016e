@@ -1,0 +1,35 @@
+
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Úèð±üÿÿÿÿJ$e3ba48b1-f1fe-435c-a408-0bfd316cf221
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ý¾ë¾ýÿÿÿÿ8“þØ£ò1J$7918b3c2-ae37-46f7-89af-4b92b8dff6ee
+m
+java:S3457"%String contains no format specifiers.(Ý¾ë¾ýÿÿÿÿ8“þØ£ò1J$7ea6cfcc-450b-462f-abe5-9e5e38e875d3
+r	java:S106"+Replace this use of System.out by a logger.(Ý¾ë¾ýÿÿÿÿ8ŸþØ£ò1J$4c659e36-3b04-4999-a073-7e4d9110763a
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(’Ý¼±øÿÿÿÿ8 þØ£ò1J$4b334e5c-de08-450d-9a65-2cc4c5a693cd
+r	java:S106"+Replace this use of System.out by a logger.(’Ý¼±øÿÿÿÿ8¡þØ£ò1J$7b6bf45c-08e1-4b3a-9cd1-175cc29a6f06
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ßŠ€»ûÿÿÿÿ8¡þØ£ò1J$80e9c849-608f-4862-96b3-1e2694cd48fb
+r	java:S106"+Replace this use of System.out by a logger.(ßŠ€»ûÿÿÿÿ8¢þØ£ò1J$f76fcdb0-e393-487f-bdbb-1866ca613839
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(ÌÃÅîþÿÿÿÿ8¢þØ£ò1J$c3e6a80c-749e-4fc4-8a96-96ec95888f44
+r	java:S106"+Replace this use of System.out by a logger.(ÌÃÅîþÿÿÿÿ8£þØ£ò1J$470f288a-a11a-427a-8868-e9ac5f0a4d25
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¥¯À¬øÿÿÿÿ8¤þØ£ò1J$9185d795-3374-4e4d-b0a8-1d7273bc4514
+r	java:S106"+Replace this use of System.out by a logger.(¥¯À¬øÿÿÿÿ8¤þØ£ò1J$67925984-325e-4685-91c6-20192d655cad
+™
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Ý¾ë¾ýÿÿÿÿ8¥þØ£ò1J$0341c496-f9f8-4f59-bc06-2c8462909586
+m
+java:S3457"%String contains no format specifiers.(Ý¾ë¾ýÿÿÿÿ8¥þØ£ò1J$652dc2ca-d889-4a9d-b434-9fa8bfed9d38
+r	java:S106"+Replace this use of System.out by a logger.(Ý¾ë¾ýÿÿÿÿ8¥þØ£ò1J$dd8b2de7-cb78-4361-9b66-bb45e08c0ec5
+¡
+java:S2142#"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¦þØ£ò1J$8933bdfd-63dd-40d4-9c69-20af996ccc2c
+”
+java:S3457*"Q%n should be used in place of \n to produce the platform-specific line separator.(™“ôŸ8ÉˆÞ£ò1J$1ce878b2-64c9-4abd-89bf-6d6471528808
+m	java:S106*"+Replace this use of System.out by a logger.(™“ôŸ8©þØ£ò1J$2325d396-bc00-49bc-ad20-b9312d488ff0
+n
+java:S3457+"Q%n should be used in place of \n to produce the platform-specific line separator.(º¦ùÉ8Ï¿Þ£ò1
+m	java:S106+"+Replace this use of System.out by a logger.(º¦ùÉ8ªþØ£ò1J$ea107b27-6d22-44da-98e4-a7245f709ada
+s
+java:S3457,"Q%n should be used in place of \n to produce the platform-specific line separator.(Ôë— øÿÿÿÿ8Ò¿Þ£ò1
+L	java:S106,"+Replace this use of System.out by a logger.(Ôë— øÿÿÿÿ8Ô¿Þ£ò1

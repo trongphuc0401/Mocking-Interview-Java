@@ -1,0 +1,15 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ß›ÎÏ8“¹í¿ò1J$b9c01501-2b49-4ded-93db-e72be6aba110
+}
+java:S1118":Add a private constructor to hide the implicit public one.(™ã‹ô8¥¹í¿ò1J$b8a9786a-9613-482d-b971-15dbf5adff08
+}
+java:S1118":Add a private constructor to hide the implicit public one.(¿à»î8ª¹í¿ò1J$2826350e-4724-441f-bb77-1e583c4e357d
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(áº¾ıüÿÿÿÿ8°¹í¿ò1J$11009d28-5a02-4be0-a2d7-0c304fab4fc6
+›
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(şÍ¥«ùÿÿÿÿ8´¹í¿ò1J$50c768fd-cb03-4040-a97a-77e9f7d344da
+›
+java:S1602""SRemove useless curly braces around statement and then remove useless return keyword(şÍ¥«ùÿÿÿÿ8·¹í¿ò1J$731e779b-543b-4c90-b7db-c2f4faecfc5f
+
+java:S1612,"EReplace this lambda with method reference 'ApiUlti::getCreditRating'.(Íô¤Æşÿÿÿÿ8Á¹í¿ò1J$879d4882-8ac8-4a75-8f36-cbbbe558fc52
+r	java:S106-"+Replace this use of System.out by a logger.(ëë¨°øÿÿÿÿ8şí¿ò1J$89a7ead8-50bc-4050-a6ff-0e65fc223cb2

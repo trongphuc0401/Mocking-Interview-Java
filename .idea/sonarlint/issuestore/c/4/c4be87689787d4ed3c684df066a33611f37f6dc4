@@ -1,0 +1,11 @@
+
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(þ—ý8ÎÜñ¦ñ1J$85170fde-d5ce-4a40-a5a9-877a7c6c4eb4
+m	java:S106"+Replace this use of System.out by a logger.(¶úëŠ8ÛÜñ¦ñ1J$4f69ede8-8222-4f88-9775-1a03d6ef2a3a
+r	java:S106"+Replace this use of System.out by a logger.(¦³Ðøûÿÿÿÿ8ÝÜñ¦ñ1J$4fafeed1-5615-4504-b1df-d2f5fc3c46a3
+r	java:S106"+Replace this use of System.out by a logger.(ü¿¨Íþÿÿÿÿ8ÝÜñ¦ñ1J$4da497c3-8963-4148-a738-d7c69a2f512a
+¡
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ÞÜñ¦ñ1J$616f7e27-eab8-433a-87fb-dff0a5310717
+m	java:S106"+Replace this use of System.out by a logger.(ìÍ¦‡8ßÜñ¦ñ1J$5bca6b63-429a-4492-bb2f-c863bdd30adc
+r	java:S106"+Replace this use of System.out by a logger.(¶ùÝêøÿÿÿÿ8àÜñ¦ñ1J$34e18dd3-754c-402e-9363-deaf0c9e379b
+m	java:S106"+Replace this use of System.out by a logger.(¦´àÁ8Íâó¦ñ1J$65e0ecee-25a3-4bea-870e-cafa1587a3d5
+r	java:S106 "+Replace this use of System.out by a logger.(á‡¹¡øÿÿÿÿ8Îâó¦ñ1J$426c892d-191e-4e47-99ba-4e65a912d62d

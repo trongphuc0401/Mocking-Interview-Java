@@ -1,0 +1,20 @@
+
+‹
+java:S2259ˆ"BA "NullPointerException" could be thrown; "fast" is nullable here.(«ƒ¸Óÿÿÿÿÿ8›Øöà1J$c8a3b40d-cb72-474a-96aa-870f83721457
+†
+java:S2259¨"BA "NullPointerException" could be thrown; "prev" is nullable here.(„ÅŞŒ8ó¤÷à1J$272c0191-9d8b-4f29-a305-8ca8df36e51f
+…
+java:S2259r"BA "NullPointerException" could be thrown; "head" is nullable here.(šÅùï8›Øöà1J$07c64fec-fed3-4ec9-8a7f-a27d4f419632
+™
+java:S1128"QRemove this unnecessary import: java.lang classes are always implicitly imported.(ãø©Æşÿÿÿÿ8œØöà1J$dc199218-2ba0-44b5-96eb-6cbf16dfe9a1
+}
+java:S2209W"5Change this instance-reference to a static reference.(±µÒÜşÿÿÿÿ8¥Øöà1J$6342f192-8bc1-4033-b539-1fc51e003e06
+m	java:S106Z"+Replace this use of System.out by a logger.(ŞñÂÏ8¥Øöà1J$f4f37338-140b-49ff-b3a5-58c3940ba0db
+l	java:S106\"+Replace this use of System.out by a logger.(¸ØïU8¥Øöà1J$27405c5e-8f09-4225-aa41-2c9eeeeccf02
+ƒ	java:S125f"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8¦Øöà1J$f6c77352-8fef-455d-8a9b-c30d3903356c
+j
+java:S1659v""Declare "fast" on a separate line.(óãÛ×úÿÿÿÿ8¨Øöà1J$896763b3-3d23-434b-8b46-6dbd228cb4f2
+‘	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ü»Ê8©Øöà1J$80dfa4cb-1ad2-42bb-9174-bd967d726f80
+–	java:S100Á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºè°¾ıÿÿÿÿ8®Øöà1J$1ba080e7-3bf0-47b2-8af0-66fba9cdeda1
+k
+java:S1659Í""Declare "fast" on a separate line.(óãÛ×úÿÿÿÿ8°Øöà1J$edce3727-365a-46b8-aba3-ac67e235a4d1

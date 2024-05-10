@@ -1,0 +1,17 @@
+
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Úšïüÿÿÿÿ8 ŒÓ”ë1J$cf33e9ef-1a10-46fe-adfd-278a27bedb2d
+d
+java:S1643"Use a StringBuilder instead.(­ÎÄøøÿÿÿÿ8¦ŒÓ”ë1J$d2e0a1fd-a7e3-4044-b1f6-dba3a48d1489
+d
+java:S1643"Use a StringBuilder instead.(áÂÙÓúÿÿÿÿ8§ŒÓ”ë1J$65d2bc12-2e7f-491a-a6cf-16fa8c9ce6ff
+_
+java:S1643$"Use a StringBuilder instead.(•šÉå8¨ŒÓ”ë1J$f8630ca2-7662-448a-980d-110d18cd6d22
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ë¸ë§úÿÿÿÿ8ªŒÓ”ë1J$34c1cefe-9515-42eb-8773-da216abbe118
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8­ŒÓ”ë1J$ec844bf4-76bc-4f7e-831e-917f81477f68
+•
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ä¬’ç8ÈÓ”ë1J$5628334c-bc26-44f1-a9b1-9aaf2fa45e66
+^
+java:S3626""Remove this redundant jump.(ÉŠ©ƒ8ÊÓ”ë1J$dcbf5082-a05d-4adf-9e0e-f2aed5920f31
+Š
+java:S1659"BDeclare "close" and all following declarations on a separate line.(ãöæ€ÿÿÿÿÿ8ËÓ”ë1J$4ae7e758-ea91-458d-a3fe-28f8f9f82e1c
+r	java:S106,"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8óÔ”ë1J$357a19ab-2491-46e3-a399-72571a98937c
