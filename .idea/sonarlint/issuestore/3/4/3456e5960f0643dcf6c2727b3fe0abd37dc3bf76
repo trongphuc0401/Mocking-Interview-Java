@@ -1,17 +1,17 @@
 
- 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Úšïüÿÿÿÿ8 ŒÓ”ë1J$cf33e9ef-1a10-46fe-adfd-278a27bedb2d
+ 	java:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Úšïüÿÿÿÿ8 ŒÓ”ë1J$16744b35-6c40-4399-ac62-963a7fd23e4b
 d
-java:S1643"Use a StringBuilder instead.(­ÎÄøøÿÿÿÿ8¦ŒÓ”ë1J$d2e0a1fd-a7e3-4044-b1f6-dba3a48d1489
+java:S1643"Use a StringBuilder instead.(­ÎÄøøÿÿÿÿ8¦ŒÓ”ë1J$5d3d15e2-ac13-48db-a9fc-103fe094e0e2
 d
-java:S1643"Use a StringBuilder instead.(áÂÙÓúÿÿÿÿ8§ŒÓ”ë1J$65d2bc12-2e7f-491a-a6cf-16fa8c9ce6ff
+java:S1643"Use a StringBuilder instead.(áÂÙÓúÿÿÿÿ8§ŒÓ”ë1J$5afaf252-5f0a-45f8-8352-11f2feda9db8
 _
-java:S1643$"Use a StringBuilder instead.(•šÉå8¨ŒÓ”ë1J$f8630ca2-7662-448a-980d-110d18cd6d22
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ë¸ë§úÿÿÿÿ8ªŒÓ”ë1J$34c1cefe-9515-42eb-8773-da216abbe118
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8­ŒÓ”ë1J$ec844bf4-76bc-4f7e-831e-917f81477f68
+java:S1643$"Use a StringBuilder instead.(•šÉå8¨ŒÓ”ë1J$e9e92ffe-345a-4e7c-a9a3-ad95d3027663
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ë¸ë§úÿÿÿÿ8ªŒÓ”ë1J$19461725-0c94-45df-8ec0-bca17be52e9d
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8­ŒÓ”ë1J$809c7f1e-116d-4cf2-955b-94cd75b391e3
 •
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ä¬’ç8ÈÓ”ë1J$5628334c-bc26-44f1-a9b1-9aaf2fa45e66
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ä¬’ç8ÈÓ”ë1J$7b7aa10f-2497-47e0-a059-49a849f65e1c
 ^
-java:S3626""Remove this redundant jump.(ÉŠ©ƒ8ÊÓ”ë1J$dcbf5082-a05d-4adf-9e0e-f2aed5920f31
+java:S3626""Remove this redundant jump.(ÉŠ©ƒ8ÊÓ”ë1J$8403b0ea-5010-488f-88dc-54b723df75c5
 Š
-java:S1659"BDeclare "close" and all following declarations on a separate line.(ãöæ€ÿÿÿÿÿ8ËÓ”ë1J$4ae7e758-ea91-458d-a3fe-28f8f9f82e1c
-r	java:S106,"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8óÔ”ë1J$357a19ab-2491-46e3-a399-72571a98937c
+java:S1659"BDeclare "close" and all following declarations on a separate line.(ãöæ€ÿÿÿÿÿ8ËÓ”ë1J$c40fcd94-809b-4206-8e65-64cb688d1a2d
+r	java:S106,"+Replace this use of System.out by a logger.(Å­Ëİúÿÿÿÿ8óÔ”ë1J$b19d9907-5df0-46c0-bd41-d718a7b35f6e
