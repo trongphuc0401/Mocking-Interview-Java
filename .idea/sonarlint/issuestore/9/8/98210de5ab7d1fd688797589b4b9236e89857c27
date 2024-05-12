@@ -1,5 +1,5 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ì²÷‚ùÿÿÿÿ8Æá¼éõ1J$f76366f9-2383-4377-be59-514145309074
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8Éá¼éõ1J$2052e89e-ff01-4792-97ed-890e86ddfb0f
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ì²÷‚ùÿÿÿÿ8Æá¼éõ1J$bfb6b1e1-519f-497d-867a-605ed2228ff8
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8Éá¼éõ1J$5b15431a-4eda-48ef-8860-152e55481f4f
 ˜
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8Ôá¼éõ1J$f2209216-048d-47e4-b786-79f9a4899ea1
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8Ôá¼éõ1J$49ef053e-1ba4-47e8-917b-dcbd62d1f381
