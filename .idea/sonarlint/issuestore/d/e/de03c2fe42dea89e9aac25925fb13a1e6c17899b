@@ -1,0 +1,16 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆÏ·¯8è¼ı¯û1J$387dc67b-3745-4d64-bb88-73fb35cab8db
+r
+java:S1197"*Move the array designators [] to the type.(‚Œæöüÿÿÿÿ8™½ı¯û1J$e2fe18e3-5940-48a6-80c5-d8a740cd14cc
+m
+java:S1197"*Move the array designators [] to the type.(ÄÂËÓ8½ı¯û1J$ca207e1e-cf12-43b7-964f-72a684c7ac12
+m	java:S106"+Replace this use of System.out by a logger.(º¼É°8¦½ı¯û1J$cc8aea48-833e-4b7d-bf99-2f1588351449
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8§½ı¯û1J$a33308db-60c9-4e0f-a32c-74c4b2cbfbac
+r
+java:S1197!"*Move the array designators [] to the type.(º ìıÿÿÿÿ8¶½ı¯û1J$7c4cff1a-a028-4d44-bf4e-759cab2f0422
+m
+java:S1197#"*Move the array designators [] to the type.(‚¾ü¢8·½ı¯û1J$b098f8a1-e1ca-42d2-989a-506bb15c5550
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¾½ı¯û1J$968d2735-2a55-450f-8588-7e1abfbf4853
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8Å½ı¯û1J$f28976e1-920b-4915-9ce2-68d30dfab209

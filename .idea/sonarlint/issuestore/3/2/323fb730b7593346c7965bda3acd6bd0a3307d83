@@ -1,0 +1,10 @@
+
+š	java:S127#"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ˆĞ˜üü1J$3889aecf-933c-4c06-9164-ef220c8c3a56
+™	java:S1272"XRefactor the code in order to not assign to this loop counter from within the loop body.(ØÃØH8ˆĞ˜üü1J$d0b036f2-9d17-4b10-90d8-f923e56cb31f
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÈÚÛÍ8‰Ğ˜üü1J$d1e5b480-8522-478b-9e62-cecd30cc461a
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8‹Ğ˜üü1J$2e4c15b7-5f2d-4380-9937-7b8ba1023eab
+r	java:S106:"+Replace this use of System.out by a logger.(¹î­øùÿÿÿÿ8¢Ğ˜üü1J$e48ba43b-6dbc-41a8-9e1b-e0c88d9073a6
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¤Ğ˜üü1J$f4850012-f7bd-4ef0-be43-a3d1eea73346
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¤Ğ˜üü1J$664521f4-4859-48b9-ab8e-64c07e2b2391
