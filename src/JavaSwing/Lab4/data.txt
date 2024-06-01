@@ -1,0 +1,3 @@
+John,Doe,30
+Jane,Doe,25
+Max,Smith,40
