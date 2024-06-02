@@ -18,7 +18,6 @@ public class _3110 {
 
         for(int i = 0 ; i < s.length()-1 ; i++){
             result = Math.abs(s.charAt(i)-s.charAt(i+1))+result;
-
         }
         return result;
 
