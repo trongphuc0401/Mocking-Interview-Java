@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Exercise3 {
     public static void main(String[] args) {
-        List<String> stringList = new ArrayList<String>();
+        List<String> stringList = new ArrayList<>();
         stringList.add("Blue");
         stringList.add("Red");
         stringList.add("Yellow");
@@ -13,7 +13,7 @@ public class Exercise3 {
         stringList.add("Hang");
         stringList.add("Ifnot");
 
-        stringList.add(0,"Pink");
+        stringList.set(0,"Pink");
         for (String element : stringList) {
             System.out.println(element);
         }

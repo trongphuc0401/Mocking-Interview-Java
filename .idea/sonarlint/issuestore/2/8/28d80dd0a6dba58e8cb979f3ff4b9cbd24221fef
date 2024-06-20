@@ -1,0 +1,36 @@
+
+¡
+java:S22938"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïç–Úÿÿÿÿÿ8Ñ³ˆÌş1J$3a965162-6bb7-41fb-86d9-0e4ac23b1767
+¡
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïç–Úÿÿÿÿÿ8Ñ³ˆÌş1J$97925cb2-85d8-4c02-b94e-071fd1d79e80
+p
+java:S1604&"(Make this anonymous inner class a lambda(¤©Òâüÿÿÿÿ8Ô³ˆÌş1J$2ce976b8-0e8f-4e64-8453-d9762d1a3ede
+l
+java:S1604­"(Make this anonymous inner class a lambda(ğÕşÅ8Ô³ˆÌş1J$432aaedc-3499-4441-a07d-9295a7fd413b
+q
+java:S1604À"(Make this anonymous inner class a lambda(…ì¯¬şÿÿÿÿ8Ô³ˆÌş1J$59961a4c-a1c1-42bc-8bb3-7c26079d51ab
+l
+java:S1604Š"(Make this anonymous inner class a lambda(ÎùÔò8Ô³ˆÌş1J$a3124c61-65f1-42c6-baf4-1728c21e9b6d
+l
+java:S1604“"(Make this anonymous inner class a lambda(õé—8Ô³ˆÌş1J$b20e7e03-83c4-4b02-a28a-d485f412753b
+l
+java:S1604œ"(Make this anonymous inner class a lambda(»„¦²8Õ³ˆÌş1J$d730281a-a45f-45cd-9657-46275d0efc28
+q
+java:S1604¥"(Make this anonymous inner class a lambda(­°ö“úÿÿÿÿ8Õ³ˆÌş1J$d8e7f95c-6335-4b54-9b00-4da5084540ec
+q
+java:S1604®"(Make this anonymous inner class a lambda(Ãúó’ÿÿÿÿÿ8Õ³ˆÌş1J$a19a0d5f-2273-4b55-9edd-a264d9c7017e
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô´øøÿÿÿÿ8å³ˆÌş1J$9cce239a-eadf-47c7-ac07-736cc73b029a
+
+java:S3973Ï"GUse indentation to denote the code conditionally executed by this "if".(¨¬…İÿÿÿÿÿ8é³ˆÌş1J$4e848085-3f06-4b25-8063-16f3427cfad4
+’
+java:S3973Ñ"IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ8é³ˆÌş1J$fc12cf50-3652-446a-acee-9908d799689e
+Ë
+java:S2681Ó"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ğÖ¥“8ê³ˆÌş1J$f680e7eb-0992-48d0-ba63-22566e22a392
+t
+java:S1948!"2Make "nhanVienBusiness" transient or serializable.(­İİ=8¦´ˆÌş1J$8e616f0b-3e20-4944-b17e-7f0fe7edf523
+r	java:S106?"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8±´ˆÌş1J$604cf03e-22ae-4165-a3f5-b1633bda2cac
+r	java:S106X"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8´´ˆÌş1J$3248ef48-3d11-4e25-9c4b-059fd27a6bbe
+’
+java:S3252•"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8¼´ˆÌş1J$fb3fbf3e-284c-432c-b8d1-0d7040eea12e
+s
+java:S1197»"*Move the array designators [] to the type.(õ«¸Éøÿÿÿÿ8Ä´ˆÌş1J$17e1068a-a489-4f46-9f1b-82dda7cde3d1

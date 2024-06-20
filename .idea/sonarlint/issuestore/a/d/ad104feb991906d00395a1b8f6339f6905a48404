@@ -1,0 +1,32 @@
+
+š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïç–ÚÿÿÿÿÿJ$f03c3d05-ff20-42b0-a6b6-a8b8a198db7d
+š
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(ïç–ÚÿÿÿÿÿJ$93d86408-6224-4d39-b4b1-6231160dc64d
+–
+java:S1192#"UDefine a constant instead of duplicating this literal "Lá»—i há»‡ thá»‘ng: " 7 times.(ëÿÄÇşÿÿÿÿJ$3b09bdcf-eaaf-4580-937a-a6e015ab4efd
+Ÿ
+java:S1192G"cDefine a constant instead of duplicating this literal "SQLException. Lá»—i há»‡ thá»‘ng: " 3 times.(óØÿùJ$90df0bfd-120f-4ae4-98b7-457c2d0959bd
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô´øøÿÿÿÿJ$8f3b9463-6233-4ed7-b7f0-aba5f2900abd
+—
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ã¡¹Ôÿÿÿÿÿ8İîÊş1J$4f60b6ab-be59-4d00-b0b4-2e9bd998fb57
+
+java:S20958"GUse try-with-resources or close this "Statement" in a "finally" clause.(Ë«Æşûÿÿÿÿ8íÊş1J$a62a3b68-c6b9-4387-8e0a-07f027326cb6
+—
+java:S2095|"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ã¡¹Ôÿÿÿÿÿ8ä¶Êş1J$c6ec8860-9f84-4762-8e35-b800cb06e36a
+—
+java:S2095]"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ã¡¹Ôÿÿÿÿÿ8Ğ–ŒÊş1J$81d4144e-c07d-493b-bcf6-be8e5286ac95
+˜
+java:S2095š"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ã¡¹Ôÿÿÿÿÿ8Ğ–ŒÊş1J$b8e807c2-d527-49f0-b88c-25112d0515b3
+f	java:S106"+Replace this use of System.out by a logger.(‘¤»àJ$8af72293-150f-492a-bacb-897e16232a0f
+k	java:S106#"+Replace this use of System.out by a logger.(ëÿÄÇşÿÿÿÿJ$8625578d-ecf5-4c61-9d66-0adc5ffdacdf
+e	java:S106+"+Replace this use of System.out by a logger.(ùŠ‡cJ$eeca468b-2c66-4b86-bf8b-d4c2f279300d
+f	java:S106G"+Replace this use of System.out by a logger.(óØÿùJ$60fa78d6-e24d-423b-9f1c-cecb3cc81669
+e	java:S106O"+Replace this use of System.out by a logger.(ùŠ‡cJ$5fd76d50-adf4-497b-872f-fdbec7282454
+w	java:S125b"<This block of commented-out lines of code should be removed.(®ŸƒåJ$15b1a32b-a5a5-4b7a-92f1-72cf24b61877
+f	java:S106h"+Replace this use of System.out by a logger.(óØÿùJ$570aa520-1298-447c-accf-8ee326fa5607
+e	java:S106p"+Replace this use of System.out by a logger.(ùŠ‡cJ$535d4a89-d3bb-4e8d-b4df-5c70e59f5596
+l	java:S106…"+Replace this use of System.out by a logger.(ëÿÄÇşÿÿÿÿJ$ba7fb1c0-d96e-4aed-8fcc-6f00aa4b8de7
+f	java:S106"+Replace this use of System.out by a logger.(ùŠ‡cJ$3d8878ea-2926-41e6-888c-110334e44c5e
+g	java:S106 "+Replace this use of System.out by a logger.(óØÿùJ$68114eac-339f-4b22-956c-99f6436d7b70
+m	java:S106¨"+Replace this use of System.out by a logger.(ùŠ‡c8ºíÊş1J$0309cb41-4a2a-4b4a-8af6-002a86c9439a

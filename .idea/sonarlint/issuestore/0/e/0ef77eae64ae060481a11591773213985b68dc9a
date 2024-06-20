@@ -1,0 +1,15 @@
+
+˜	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡îñÞûÿÿÿÿ8˜“¹Éþ1J$ed471f6d-632a-44ed-aca6-08a96f3b4153
+“	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ò®Þè8™“¹Éþ1J$635f98b3-7c7c-4451-abc6-aaf54599b9bb
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ô´žøøÿÿÿÿJ$7191d561-a92f-4625-b4b5-8bf037e90710
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(ºÕ…˜úÿÿÿÿ8Ê“¹Éþ1J$de63f069-437d-4549-ad5f-74a350654408
+ƒ	java:S125	"<This block of commented-out lines of code should be removed.(Þ¶µÚùÿÿÿÿ8Î“¹Éþ1J$721bcc25-3390-4b3e-959c-df3b0e84b52a
+y
+java:S6437"6Revoke and change this password, as it is compromised.(Œ‘ñë8ã“¹Éþ1J$f6b61dcb-da42-480e-afd1-b810a6aa52f9
+r	java:S106"+Replace this use of System.err by a logger.(¦Ê²ÿÿÿÿÿ8ñ“¹Éþ1J$64559d72-a80d-4be4-92e4-fbce89786fc2
+o
+java:S4925%"-Remove this "Class.forName()", it is useless.(ø™¦8ù“¹Éþ1J$12d38e0e-2fae-4701-a82b-dda5448d7644
+y
+java:S6437&"6Revoke and change this password, as it is compromised.(²ÏÆ»8û“¹Éþ1J$bed8345f-fca0-47d5-91fc-16632079238f
+r	java:S106)"+Replace this use of System.err by a logger.(óš§£øÿÿÿÿ8ý“¹Éþ1J$300aa6cd-ab9a-45f0-b595-820e78898b50

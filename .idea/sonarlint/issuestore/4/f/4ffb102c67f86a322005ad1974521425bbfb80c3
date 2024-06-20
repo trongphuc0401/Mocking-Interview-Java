@@ -1,0 +1,7 @@
+
+m	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üùšî8ËÃÞ‘þ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡»ÒÍýÿÿÿÿ8ÍÃÞ‘þ1
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8ÐÃÞ‘þ1
+]	java:S125"<This block of commented-out lines of code should be removed.(®Îµáþÿÿÿÿ8¿ÅÞ‘þ1
+R
+java:S1128"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ8ÌÅÞ‘þ1
