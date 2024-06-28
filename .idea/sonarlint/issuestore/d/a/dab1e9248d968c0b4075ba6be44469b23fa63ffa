@@ -1,34 +1,34 @@
 
-L
-java:S1197"*Move the array designators [] to the type.(ήΰ§Ιόÿÿÿÿ8³Ν„νθ1
-L
-java:S1197"*Move the array designators [] to the type.(ΰ«®ύÿÿÿÿ8΄Ν„νθ1
-G
-java:S1197"*Move the array designators [] to the type.(ϊª£8µΝ„νθ1
-L
-java:S1197""*Move the array designators [] to the type.(ω‹Ωόÿÿÿÿ8¶Ν„νθ1
-G
-java:S1197)"*Move the array designators [] to the type.(Ώώÿά8·Ν„νθ1
-L
-java:S11970"*Move the array designators [] to the type.(¥Ώ­όÿÿÿÿ8ΈΝ„νθ1
-G	java:S1063"+Replace this use of System.out by a logger.(ªΩ•ξ8ΊΝ„νθ1
-L	java:S1066"+Replace this use of System.out by a logger.(ίΨΡρωÿÿÿÿ8»Ν„νθ1
-L
-java:S11979"*Move the array designators [] to the type.(©ό£ιϋÿÿÿÿ8»Ν„νθ1
-G
-java:S1197p"*Move the array designators [] to the type.(¦–8ΏΝ„νθ1
-L	java:S106t"+Replace this use of System.out by a logger.(ίΨΡρωÿÿÿÿ8ΐΝ„νθ1
-L
-java:S1197~"*Move the array designators [] to the type.(ήη³Òψÿÿÿÿ8ΒΝ„νθ1
-M	java:S106‚"+Replace this use of System.out by a logger.(Χ¦ΙΛωÿÿÿÿ8ΓΝ„νθ1
-?
-java:S1659•"!Declare "key" on a separate line.(΅ξίÿ8ΕΝ„νθ1
-H	java:S106"+Replace this use of System.out by a logger.(¶²ώπ8ΖΝ„νθ1
-H	java:S106"+Replace this use of System.out by a logger.(°ι—8ΖΝ„νθ1
-H	java:S106"+Replace this use of System.out by a logger.(„γό8ΗΝ„νθ1
-H	java:S106΅"+Replace this use of System.out by a logger.(°ι—8ΘΝ„νθ1
-H	java:S106¥"+Replace this use of System.out by a logger.(„γό8ΘΝ„νθ1
-H	java:S106§"+Replace this use of System.out by a logger.(°ι—8ΘΝ„νθ1
-G	java:S106©"+Replace this use of System.out by a logger.(ή΅Όx8ΙΝ„νθ1
-M	java:S106ª"+Replace this use of System.out by a logger.(ΨΏ¤Νψÿÿÿÿ8ΙΝ„νθ1
-M	java:S106«"+Replace this use of System.out by a logger.(Ξ‰Ύωÿÿÿÿ8ΙΝ„νθ1
+r
+java:S1197"*Move the array designators [] to the type.(ήΰ§Ιόÿÿÿÿ8³Ν„νθ1J$c7881782-e56f-4c0a-9c23-1462d3018527
+r
+java:S1197"*Move the array designators [] to the type.(ΰ«®ύÿÿÿÿ8΄Ν„νθ1J$f14d2843-4d54-4233-b5fe-7b6247192fa9
+m
+java:S1197$"*Move the array designators [] to the type.(ϊª£8µΝ„νθ1J$2a5e799c-6876-4153-af76-703fdcdeb545
+r
+java:S11971"*Move the array designators [] to the type.(ω‹Ωόÿÿÿÿ8¶Ν„νθ1J$9a41d324-5276-443a-b9ad-d840dcbf55a1
+m
+java:S11978"*Move the array designators [] to the type.(Ώώÿά8·Ν„νθ1J$a646d3c9-083f-4025-b0fa-8c820aa96c13
+r
+java:S1197?"*Move the array designators [] to the type.(¥Ώ­όÿÿÿÿ8ΈΝ„νθ1J$4b2ef566-38ee-4377-bfef-65cb08298a50
+m	java:S106B"+Replace this use of System.out by a logger.(ªΩ•ξ8ΊΝ„νθ1J$43a45bbf-143b-4286-a913-8cdf3cedcee9
+r	java:S106E"+Replace this use of System.out by a logger.(ίΨΡρωÿÿÿÿ8»Ν„νθ1J$cb823763-8ef6-4219-8da5-1d1f48ce2150
+r
+java:S1197H"*Move the array designators [] to the type.(©ό£ιϋÿÿÿÿ8»Ν„νθ1J$2cf308b4-1c49-4bb1-a9ca-ac3db9675055
+m
+java:S1197"*Move the array designators [] to the type.(¦–8ΏΝ„νθ1J$32d2326b-d20d-415a-90fd-72de78b001a5
+s	java:S106ƒ"+Replace this use of System.out by a logger.(ίΨΡρωÿÿÿÿ8ΐΝ„νθ1J$7aae63fb-9c20-4262-a1dd-81f0346f8eac
+s
+java:S1197"*Move the array designators [] to the type.(ήη³Òψÿÿÿÿ8ΒΝ„νθ1J$6f4473e3-571f-49c2-8d68-2dea4f694138
+s	java:S106‘"+Replace this use of System.out by a logger.(Χ¦ΙΛωÿÿÿÿ8ΓΝ„νθ1J$353d6362-6af8-4498-96f5-699160197627
+e
+java:S1659¤"!Declare "key" on a separate line.(΅ξίÿ8ΕΝ„νθ1J$ff941fc4-e5d8-40c5-9ae1-7c616d9fff48
+n	java:S106§"+Replace this use of System.out by a logger.(¶²ώπ8ΖΝ„νθ1J$e497127c-49ec-4022-a790-5d7f845d80ed
+n	java:S106©"+Replace this use of System.out by a logger.(°ι—8ΖΝ„νθ1J$5d8c27fd-07bb-4f8a-a8c8-771dd0413624
+n	java:S106®"+Replace this use of System.out by a logger.(„γό8ΗΝ„νθ1J$f3154e96-8941-4b16-a635-d7214988cee6
+n	java:S106°"+Replace this use of System.out by a logger.(°ι—8ΘΝ„νθ1J$b99a34b5-3edd-483d-af23-d73029ff1986
+n	java:S106΄"+Replace this use of System.out by a logger.(„γό8ΘΝ„νθ1J$ccfd31fe-72d3-42d7-b494-e0fd6f1d75ed
+n	java:S106¶"+Replace this use of System.out by a logger.(°ι—8ΘΝ„νθ1J$2a83baf6-ce6b-41fc-bdfd-f7ee79481cfe
+m	java:S106Έ"+Replace this use of System.out by a logger.(ή΅Όx8ΙΝ„νθ1J$3b4778fc-7c77-4e25-bd76-79917daafe08
+s	java:S106Ή"+Replace this use of System.out by a logger.(ΨΏ¤Νψÿÿÿÿ8ΙΝ„νθ1J$01ef1d2a-5015-4b45-b41c-e145591fc87d
+s	java:S106Ί"+Replace this use of System.out by a logger.(Ξ‰Ύωÿÿÿÿ8ΙΝ„νθ1J$91ff7658-394d-4320-8fdf-494a0e7cc8c8

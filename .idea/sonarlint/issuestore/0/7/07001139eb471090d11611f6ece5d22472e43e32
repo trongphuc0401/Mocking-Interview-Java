@@ -1,5 +1,5 @@
 
-u
-java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(»èšb8º¬ç­í1
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëƒ×ÞøÿÿÿÿJ$092515cf-7ca3-483c-8171-2007c952bf80
-L	java:S106"+Replace this use of System.out by a logger.(¬ÐË‹ùÿÿÿÿ8Æ¬ç­í1
+›
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(»èšb8º¬ç­í1J$4909af8f-8745-4f31-a0c2-17ef0c5df212
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëƒ×ÞøÿÿÿÿJ$f7c0ebde-c025-46f1-aab0-c7581fe68cc5
+r	java:S106"+Replace this use of System.out by a logger.(¬ÐË‹ùÿÿÿÿ8Æ¬ç­í1J$c965d58f-97bf-4d0a-9665-d94b90755e8d

@@ -1,5 +1,5 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡­Öƒ8¥”øœƒ2
-G	java:S106"+Replace this use of System.out by a logger.(˜Œ˜¥8¬”øœƒ2
-V
-java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8­”øœƒ2
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡­Öƒ8¥”øœƒ2J$38df022b-f8bc-4d07-97fb-c7f6327f830e
+m	java:S106"+Replace this use of System.out by a logger.(˜Œ˜¥8¬”øœƒ2J$9bd6fa60-9769-4ec4-b2bb-1d0c129500e5
+|
+java:S1128"4Remove this unused import 'java.time.LocalDateTime'.(æÃ§ƒüÿÿÿÿ8­”øœƒ2J$729e8ce7-3ce0-40a3-877f-809fcfba509d

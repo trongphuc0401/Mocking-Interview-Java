@@ -1,8 +1,8 @@
 
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀîéÉÿÿÿÿÿ
-X
-java:S2094""BRemove this empty class, write its code or make it an "interface".(¬ÙÅŠ
-R
-java:S1854*"7Remove this useless assignment to local variable "str".(Ö±´ïþÿÿÿÿ
->
-java:S1481)"(Remove this unused "str" local variable.(™¦à¿
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÀîéÉÿÿÿÿÿJ$13975853-7755-4d55-9f7b-75279a386929
+~
+java:S2094""BRemove this empty class, write its code or make it an "interface".(¬ÙÅŠJ$149ef116-a5f2-44ad-b459-6e4d5cb07776
+x
+java:S1854*"7Remove this useless assignment to local variable "str".(Ö±´ïþÿÿÿÿJ$1c7cf9df-28d2-4dfe-b1f3-d7ff10145cf0
+d
+java:S1481)"(Remove this unused "str" local variable.(™¦à¿J$00b9a554-b404-4eb3-a66b-e3d501f256b4
