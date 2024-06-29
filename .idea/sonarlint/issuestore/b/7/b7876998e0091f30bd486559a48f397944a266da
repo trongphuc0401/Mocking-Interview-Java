@@ -1,3 +1,9 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ËË…ÛøÿÿÿÿJ$04cdd6c4-3324-4107-b069-cfaf31427aad
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿJ$9104eb1d-5fcb-4292-8f56-23bbb57720da
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ËË…Ûøÿÿÿÿ8§¬÷–†2J$263f0b0f-409f-443f-9962-9baa9cf08303
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8©¬÷–†2J$17d4cb40-9080-413d-b8d6-74e4e3d2ab5b
+~	java:S125,"<This block of commented-out lines of code should be removed.(™…¤Ç8¶¬÷–†2J$a93fdfad-3e86-4571-9524-c0382c690b7d
+l	java:S1069"+Replace this use of System.out by a logger.(‡Êº8¸¬÷–†2J$f67d0588-cef9-4fcd-b9eb-efba08e1fea0
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¹¬÷–†2J$1152bddc-c5f7-4de4-a985-1d6b17befd86
+r
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8¹¬÷–†2J$5faa688e-4ec3-48df-909b-9ab8ed747148

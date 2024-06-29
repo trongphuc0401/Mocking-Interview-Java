@@ -451,3 +451,7 @@ G
 src/LeetCode/_1052.java,6\1\61ead685c5b23d99df229aad8d12cd15ac963b4d
 H
 src/Collection/Test.java,7\4\74d36d868f8a3af185aae6463483a9bb72306589
+D
+src/LeetCode/_2.java,0\8\08b8359b5c9390a3f8934ef4abbc8fd7f868b7fa
+N
+src/LeetCode/Chuoidoixung.java,c\1\c11c2341185e2e92a81116d4ee5fbef31a6c4e87
