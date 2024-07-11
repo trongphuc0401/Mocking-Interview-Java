@@ -1,31 +1,31 @@
 
 ¦
-java:S1192ü"bDefine a constant instead of duplicating this literal "Show all element in linked list: " 3 times.(ö‘¹¾8¿¡ÁÑæ1J$b98b624c-a53d-4c15-b2a9-4273f0c6666e
-”	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿë‚”8Á¡ÁÑæ1J$dd0e6ea3-7184-40f4-a738-83db0d02b827
-”	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿë‚”8Á¡ÁÑæ1J$92223124-0147-4f79-91c5-c953e5edf495
-™	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™îÅ¾ıÿÿÿÿ8Á¡ÁÑæ1J$85e71936-553c-4168-9459-d7ac4207c8e7
-”	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷áº€8Á¡ÁÑæ1J$f702931f-73e6-4ee7-a266-abd493010e4a
-™	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÿë’ùÿÿÿÿ8Á¡ÁÑæ1J$6fc3fcdb-3e0b-478d-943e-a257f5c758d9
-™	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äö¸«ıÿÿÿÿ8Á¡ÁÑæ1J$c8b2e3a0-29a7-44f1-a4ac-c2b25a76fc4a
-r	java:S106]"+Replace this use of System.out by a logger.(ÌÁ›·ÿÿÿÿÿ8õ¡ÁÑæ1J$775c2790-e75a-4d69-b95b-94deddb9d5a7
-r	java:S106^"+Replace this use of System.out by a logger.(–Ÿ§şÿÿÿÿ8õ¡ÁÑæ1J$ac1d245e-640e-490e-8dc0-6991c82a466e
+java:S1192"bDefine a constant instead of duplicating this literal "Show all element in linked list: " 3 times.(ö‘¹¾8Ç¼³‰2J$5982290b-676e-474f-8cc9-3ea2dbac4b69
+”	java:S117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿë‚”8Ç¼³‰2J$e4009ac2-b25c-4673-88f5-b2e01d7900a5
+”	java:S117æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿë‚”8Ç¼³‰2J$5f7cc9df-de3e-4121-ae91-87c0c57ae119
+™	java:S117Å"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™îÅ¾ıÿÿÿÿ8Ç¼³‰2J$67a2edff-e54f-45eb-b711-b42cbedf883f
+”	java:S117Æ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷áº€8Ç¼³‰2J$eaf0b650-982e-4d69-82cf-cc201241d167
+™	java:S117Ç"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şÿë’ùÿÿÿÿ8Ç¼³‰2J$fcdbc404-6419-4b6f-89da-e12927fae2fe
+™	java:S117È"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äö¸«ıÿÿÿÿ8Ç¼³‰2J$99663d0f-9556-40a5-aa5d-d054d659262a
+r	java:S106]"+Replace this use of System.out by a logger.(ÌÁ›·ÿÿÿÿÿ8·Ç¼³‰2J$25dcac74-d04f-4f23-9e9c-67d5f47be520
+r	java:S106^"+Replace this use of System.out by a logger.(–Ÿ§şÿÿÿÿ8¸Ç¼³‰2J$6043e8ef-c0a0-45af-a4df-e2393fb6b818
 €
-java:S1117¥"7Rename "next" which hides the field declared at line 7.(ö¿§İüÿÿÿÿ8ù¡ÁÑæ1J$6c78e1bf-bd6f-4451-997f-d7333a99465c
+java:S1117¥"7Rename "next" which hides the field declared at line 7.(ö¿§İüÿÿÿÿ8¼Ç¼³‰2J$46ab45a4-88e0-440f-b365-11bb2a668784
 €
-java:S1117Ç"7Rename "next" which hides the field declared at line 7.(¶åïæÿÿÿÿÿ8ú¡ÁÑæ1J$e53a08c4-7bbe-4482-884e-c0eb9d13d6d6
-n	java:S106Ñ"+Replace this use of System.out by a logger.(ÁûÃå8ú¡ÁÑæ1J$eb864bfb-5de2-4eeb-8fef-c81ab5e83f3f
+java:S1117Ç"7Rename "next" which hides the field declared at line 7.(¶åïæÿÿÿÿÿ8¾Ç¼³‰2J$20b0dc02-81d8-43ad-9edd-1968cadaaf8d
+n	java:S106Ñ"+Replace this use of System.out by a logger.(ÁûÃå8¿Ç¼³‰2J$f8597781-b71a-427f-8396-91c2beeca473
 
-java:S1854‚"8Remove this useless assignment to local variable "temp".(˜Ú©Òûÿÿÿÿ8ı¡ÁÑæ1J$dda0d548-afcb-44de-9c51-55afcbd2956b
+java:S1854‚"8Remove this useless assignment to local variable "temp".(˜Ú©Òûÿÿÿÿ8ÂÇ¼³‰2J$7bc60c7e-76b2-4279-887e-3d1ba41ed26b
 r
-java:S1481‚")Remove this unused "temp" local variable.(˜Ú©Òûÿÿÿÿ8ş¡ÁÑæ1J$f8d2833d-1076-4c43-84c4-80a8d3d3cffd
-n	java:S106ó"+Replace this use of System.out by a logger.(È²øŠ8ƒ¢ÁÑæ1J$eb38810c-ab25-411b-9e06-4e80130a4335
-s	java:S106õ"+Replace this use of System.out by a logger.(ÀĞ©Îùÿÿÿÿ8„¢ÁÑæ1J$60300c7c-34fb-48dd-873b-5e3b32581da5
-s	java:S106ö"+Replace this use of System.out by a logger.(‡”Àäşÿÿÿÿ8„¢ÁÑæ1J$088402e7-14f7-4028-b239-ea346cc128c7
-n	java:S106ø"+Replace this use of System.out by a logger.(şÓ€8„¢ÁÑæ1J$eba7d64c-f5d7-47dc-8b7e-5817bc3a1997
-n	java:S106ü"+Replace this use of System.out by a logger.(ö‘¹¾8„¢ÁÑæ1J$38497ea7-1d5e-4ee8-b84a-e115e14c42b3
-n	java:S106ı"+Replace this use of System.out by a logger.(áÖ°ú8„¢ÁÑæ1J$c0c6b3f2-f660-4eef-9fe7-c3ab5c4af31c
-n	java:S106ş"+Replace this use of System.out by a logger.(±ŸÎ‰8…¢ÁÑæ1J$e12a37d9-6240-474f-ba80-781828f79367
-m	java:S106ÿ"+Replace this use of System.out by a logger.(—±ğ{8…¢ÁÑæ1J$e542e694-7420-43b6-b575-91d8fbf6794d
-n	java:S106€"+Replace this use of System.out by a logger.(ö‘¹¾8…¢ÁÑæ1J$358220d9-88dc-406b-89b1-20f8a6a508e8
-m	java:S106"+Replace this use of System.out by a logger.(ñ„›m8…¢ÁÑæ1J$a38391d3-cbda-403f-b1a0-b576c7220683
-n	java:S106‚"+Replace this use of System.out by a logger.(ö‘¹¾8Â„ÄÑæ1J$db8a515f-65eb-4a5f-925a-2d9ecb97a2f5
+java:S1481‚")Remove this unused "temp" local variable.(˜Ú©Òûÿÿÿÿ8ÅÇ¼³‰2J$48d1b802-d3ed-4bc3-a2a5-74447218eaca
+n	java:S106„"+Replace this use of System.out by a logger.(È²øŠ8ÌÇ¼³‰2J$1ca44a21-a225-4a88-911b-37923988e15d
+s	java:S106†"+Replace this use of System.out by a logger.(ÀĞ©Îùÿÿÿÿ8ÍÇ¼³‰2J$c3a33e9c-c390-4107-a040-6f9f312875ed
+s	java:S106‡"+Replace this use of System.out by a logger.(‡”Àäşÿÿÿÿ8ÎÇ¼³‰2J$568b487b-3208-4ee6-8afc-3fa790c4d9b2
+n	java:S106‰"+Replace this use of System.out by a logger.(şÓ€8ÎÇ¼³‰2J$733df167-cfff-4a7a-b85b-539bff6d0b6c
+n	java:S106"+Replace this use of System.out by a logger.(ö‘¹¾8ÎÇ¼³‰2J$f361222d-a1f6-4aff-b418-dad207afbee8
+n	java:S106"+Replace this use of System.out by a logger.(áÖ°ú8ÏÇ¼³‰2J$5a5c2691-f82f-45a7-b5b6-288c6e8656ef
+n	java:S106"+Replace this use of System.out by a logger.(±ŸÎ‰8ÏÇ¼³‰2J$bf409d4b-73fb-41fc-b41b-cb7e5ffba393
+m	java:S106"+Replace this use of System.out by a logger.(—±ğ{8ÏÇ¼³‰2J$54273294-cfdb-4756-bf64-db9cccf41769
+n	java:S106‘"+Replace this use of System.out by a logger.(ö‘¹¾8ÏÇ¼³‰2J$3a7119d6-e618-439f-a2ca-623b0fd4ec4c
+m	java:S106’"+Replace this use of System.out by a logger.(ñ„›m8ÏÇ¼³‰2J$6ebb0564-f2c6-44f7-a260-1ea84516349e
+n	java:S106“"+Replace this use of System.out by a logger.(ö‘¹¾8ĞÇ¼³‰2J$61cfb7db-fbf6-4562-ae83-b1d7b7b15d3a

@@ -1,7 +1,7 @@
 
-m	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üùšî8ËÃÞ‘þ1
-n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡»ÒÍýÿÿÿÿ8ÍÃÞ‘þ1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8ÐÃÞ‘þ1
-]	java:S125"<This block of commented-out lines of code should be removed.(®Îµáþÿÿÿÿ8¿ÅÞ‘þ1
-R
-java:S1128"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ8ÌÅÞ‘þ1
+“	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üùšî8ËÃÞ‘þ1J$08c7e275-e232-4c27-9353-11a751a2ef1a
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¡»ÒÍýÿÿÿÿ8ÍÃÞ‘þ1J$747dcfc4-c426-42d7-b702-6795fa3a7562
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8ÐÃÞ‘þ1J$f0ead630-21da-4367-be92-b69fc8fea865
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(®Îµáþÿÿÿÿ8¿ÅÞ‘þ1J$f1132ce4-34a2-4362-b333-0ab21596f6e0
+x
+java:S1128"0Remove this unused import 'java.util.Hashtable'.(Œ»ÏÊüÿÿÿÿ8ÌÅÞ‘þ1J$f480f694-918a-4ae3-9e8d-01efc71a41f5

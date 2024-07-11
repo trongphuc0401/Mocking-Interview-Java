@@ -1,4 +1,7 @@
 package LeetCode;
+
+import java.util.Collection;
+
 /// 141. Linked List Cycle
 /*
 *
@@ -17,6 +20,7 @@ public class _141 {
           next = null;
       }
   }
+
     public boolean hasCycle(ListNode head) {
        ListNode slow = head;
        ListNode fast  =head.next;

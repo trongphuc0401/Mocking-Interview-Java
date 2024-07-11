@@ -1,9 +1,9 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ËË…Ûøÿÿÿÿ8§¬÷–†2J$263f0b0f-409f-443f-9962-9baa9cf08303
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8©¬÷–†2J$17d4cb40-9080-413d-b8d6-74e4e3d2ab5b
-~	java:S125,"<This block of commented-out lines of code should be removed.(™…¤Ç8¶¬÷–†2J$a93fdfad-3e86-4571-9524-c0382c690b7d
-l	java:S1069"+Replace this use of System.out by a logger.(‡Êº8¸¬÷–†2J$f67d0588-cef9-4fcd-b9eb-efba08e1fea0
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ËË…Ûøÿÿÿÿ8§¬÷–†2J$e8d8b59d-5980-4e8a-8bbc-dc0d5e14f354
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8©¬÷–†2J$69293496-cdc4-4f68-91f2-0acbe37c3b0b
+~	java:S125,"<This block of commented-out lines of code should be removed.(™…¤Ç8¶¬÷–†2J$a79a8801-fad9-4232-9e76-5d9ad0d972e3
+l	java:S1069"+Replace this use of System.out by a logger.(‡Êº8¸¬÷–†2J$8023977a-6cd1-46ca-ae62-49b40d62244b
 u
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¹¬÷–†2J$1152bddc-c5f7-4de4-a985-1d6b17befd86
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¹¬÷–†2J$6b4ec751-9f65-4308-accb-9d0012237122
 r
-java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8¹¬÷–†2J$5faa688e-4ec3-48df-909b-9ab8ed747148
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8¹¬÷–†2J$ec20114d-faf4-4417-aba6-15aac592e045

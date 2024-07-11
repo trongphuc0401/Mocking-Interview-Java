@@ -1,0 +1,10 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ñ¢åêüÿÿÿÿ8ÑÝï³‡2J$a6e30277-ebb1-47f6-9c4e-27ba8c5c2ce7
+}
+java:S1118":Add a private constructor to hide the implicit public one.(Â¿šÍ8ÙÝï³‡2J$9ad34e06-d02f-4e35-aa30-f42dbfb4a6f2
+z
+java:S1611"2Remove the parentheses around the "from" parameter(ßÁ¼íùÿÿÿÿ8ÜÝï³‡2J$594b295b-4f0e-4fea-b9ed-561acc239ae3
+{
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Íž8ßÝï³‡2J$02523db1-774a-414c-87fc-7c9aedd6ac6f
+|
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8ßÝï³‡2J$b2baa5f9-8338-4fbc-95df-cf64ae764590

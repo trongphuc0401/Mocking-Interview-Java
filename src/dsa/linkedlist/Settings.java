@@ -341,6 +341,23 @@ public class Settings {
 
 
     }
+
+    public Node middleNode(Node head) {
+
+        Node current = head;
+        Node middle  = head;
+        int length = 0 ;
+
+        while (current.next != null) {
+            length ++;
+            if (length % 2 ==0) {
+                middle = middle.next;
+            }
+            current = current.next;
+
+        }
+        return middle ;
+    }
     public static void main(String[] args) {
         Settings list = new Settings();
         Settings list1 = new Settings();
