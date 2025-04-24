@@ -1,0 +1,8 @@
+
+”	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ª¢ðÈûÿÿÿÿ8Ý±ÍšÙ2J$f181ade2-2273-44bb-9c25-4b133c5bcd40
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8Ý±ÍšÙ2J$28644eca-ceeb-4085-992d-3fbefa7cf92e
+•	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê´«»üÿÿÿÿ8á±ÍšÙ2J$055ffa1d-83d6-4e72-9543-cec608b27076
+M
+java:S1128"+Remove this unused import 'org.junit.Test'.(ùžøèøÿÿÿÿ8°ÞÑšÙ2
+m
+java:S5960"+Remove this assertion from production code.(Æ¸‡!8îÖÍšÙ2J$bd4780c3-ec88-461d-8be2-a7d1111b1bd9

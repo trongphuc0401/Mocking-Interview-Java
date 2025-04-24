@@ -19,7 +19,7 @@ interface SayHelloWorld {
 }
 public class LambdaExample1 {
     public static void main(String[] args) {
-        // Cách lambda bình thường
+
         // SayHelloWorld sayHelloWorld1 = (a,b) -> {
         //     int sum = (a+b);
         //     return sum;

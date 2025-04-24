@@ -1,5 +1,5 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û—¡öùÿÿÿÿ8ŒÄèÍñ1J$40a96ee2-f5cc-4e61-aabf-7343a394a376
-F	java:S106"+Replace this use of System.out by a logger.(úˆíq8ò éÍñ1
-_
-java:S1128"=Remove this unused import 'org.junit.jupiter.api.Assertions'.(âè¨ùÿÿÿÿ8Ó×ñ1
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(û—¡öùÿÿÿÿ8ŒÄèÍñ1J$c5dc0d25-b268-46b9-af3a-44dc43a355db
+l	java:S106"+Replace this use of System.out by a logger.(úˆíq8ò éÍñ1J$82486e63-57e3-4f4b-82d7-74e90205844b
+…
+java:S1128"=Remove this unused import 'org.junit.jupiter.api.Assertions'.(âè¨ùÿÿÿÿ8Ó×ñ1J$23d4bb5e-c706-4e1a-a927-20a47418d6b3

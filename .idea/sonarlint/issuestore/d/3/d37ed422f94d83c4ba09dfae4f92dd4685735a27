@@ -1,10 +1,10 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Û·ªüúÿÿÿÿ8õ©˜†2J$3db385d7-ee05-475f-ba14-2c6c60b5a2bc
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Û·ªüúÿÿÿÿ8õ©˜†2J$e61dd17f-fe4d-4834-9af7-65d7fd0cfd7a
 €
-java:S1854"8Remove this useless assignment to local variable "prev".(¯Ú®úÿÿÿÿ8ú©˜†2J$91e0330e-93a0-4508-9495-e3f92df5a66e
+java:S1854"8Remove this useless assignment to local variable "prev".(¯Ú®úÿÿÿÿ8ú©˜†2J$8b7c3bd6-df08-4307-bc10-a7cb55208f53
 €
-java:S1854"8Remove this useless assignment to local variable "temp".(ğ’ÖÊüÿÿÿÿ8ú©˜†2J$3380833a-c803-404c-84db-e1ee03730bd0
+java:S1854"8Remove this useless assignment to local variable "temp".(ğ’ÖÊüÿÿÿÿ8ú©˜†2J$db704e4d-2444-488c-a76a-da59a830cdaf
 q
-java:S1481")Remove this unused "temp" local variable.(ğ’ÖÊüÿÿÿÿ8û©˜†2J$8b3e5623-5ea6-4f54-8b48-ca00d30a2df0
+java:S1481")Remove this unused "temp" local variable.(ğ’ÖÊüÿÿÿÿ8û©˜†2J$736f2e7b-6edd-4921-9e0d-5ffb3312620c
 q
-java:S1481")Remove this unused "prev" local variable.(¯Ú®úÿÿÿÿ8ü©˜†2J$e515a384-5238-42a8-b506-7e76f773a8b1
+java:S1481")Remove this unused "prev" local variable.(¯Ú®úÿÿÿÿ8ü©˜†2J$f3beecd6-9e94-4d1b-92eb-f523c3486c8a

@@ -11,6 +11,11 @@ public class _344 {
         }
     }
 
+    public void revrseString(char[] s) {
+
+        return new StringBuilder(s).reverse().toString();
+    }
+
     public static void main(String[] args) {
         char[]  s = {'h','e','l','l','o'};
         _344 test = new _344();

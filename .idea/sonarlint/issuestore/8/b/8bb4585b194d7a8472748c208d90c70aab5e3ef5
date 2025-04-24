@@ -1,5 +1,5 @@
 
-i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(î±ûö8ã¢ğê‰2
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8å¢ğê‰2
-S
-java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8ì¢ğê‰2
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(î±ûö8ã¢ğê‰2J$c6086204-a148-42a4-9ba5-78abf1a1b365
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8å¢ğê‰2J$f4db33be-20f0-40e9-a857-8d073ade30b7
+y
+java:S1128"1Remove this unused import 'java.util.Collection'.(¹ÉĞšùÿÿÿÿ8ì¢ğê‰2J$2dbf6ca5-be3c-4e60-940c-8572848fa4b3
