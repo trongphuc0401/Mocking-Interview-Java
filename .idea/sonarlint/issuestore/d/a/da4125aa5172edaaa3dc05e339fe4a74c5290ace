@@ -1,0 +1,9 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿ãË8ìïà‡Š2J$bcd7957c-30e7-4468-8c8c-ed236b735fcf
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8íïà‡Š2J$7387949e-c73e-46da-91ba-9743d207bd06
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8óïà‡Š2J$8b6f6cf7-89c5-4b1a-9d75-85bc99421bb1
+z
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8óïà‡Š2J$cfb88a9d-b345-4645-8645-7675ffa81fb9
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8óïà‡Š2J$77625e5a-affb-4776-962e-bcd045897a6a

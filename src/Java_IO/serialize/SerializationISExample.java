@@ -7,7 +7,7 @@ import java.io.ObjectOutputStream;
 public class SerializationISExample {
     public static void main(String[] args) throws IOException {
         ObjectOutputStream oos  =null;
-        String filePath = "E:/Interview_Java/Interview/src/data/engineer.txt";
+        String filePath = "E:/Interview_Java/Mocking-Interview-Java/src/data/engineer.txt";
 
         try {
             oos = new ObjectOutputStream(new FileOutputStream(filePath));

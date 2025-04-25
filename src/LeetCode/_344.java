@@ -1,0 +1,25 @@
+package LeetCode;
+
+public class _344 {
+
+    public void reverseString(char[] s) {
+
+        for (int i = 0, j = s.length - 1; i < j; i++, j--) {
+            char temp = s[i];
+            s[i] = s[j];
+            s[j] = temp;
+        }
+    }
+
+    public void revrseString(char[] s) {
+
+        return new StringBuilder(s).reverse().toString();
+    }
+
+    public static void main(String[] args) {
+        char[]  s = {'h','e','l','l','o'};
+        _344 test = new _344();
+        test.reverseString(s);
+        System.out.println(s);
+    }
+}

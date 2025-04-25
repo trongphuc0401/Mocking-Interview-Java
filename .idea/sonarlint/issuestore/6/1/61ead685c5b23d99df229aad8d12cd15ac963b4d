@@ -1,0 +1,7 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ŸºÓşÿÿÿÿ8·çüÎƒ2J$99606acb-c0fb-4eaf-9eef-59cb6f4a167f
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8ºçüÎƒ2J$9e4d78bd-9b58-4283-b3dd-7147716620df
+x
+java:S1854"5Remove this useless assignment to local variable "n".(£¢îè8ÄçüÎƒ2J$b7d3e95b-4ffb-4d57-bc93-b25d9c58ef26
+i
+java:S1481"&Remove this unused "n" local variable.(£¢îè8ÊçüÎƒ2J$29052025-189b-4873-ac9f-6d67997e3c5e

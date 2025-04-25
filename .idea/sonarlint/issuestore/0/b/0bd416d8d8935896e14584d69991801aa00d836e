@@ -1,6 +1,6 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…×Ç¤ÿÿÿÿÿ8‰·ï‚í1J$4481ba45-6267-47d6-8845-c7a715cf93b4
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8Œ·ï‚í1J$f6af61a2-2a33-4a7e-88ca-acd0b4878268
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(…×Ç¤ÿÿÿÿÿ8‰·ï‚í1J$dae7b609-05f4-4602-9b3d-60614db45771
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8Œ·ï‚í1J$c29e56e2-9d7e-4778-af4f-de14acecf9d7
 ˜
-java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8”·ï‚í1J$4fbe7f39-5c8b-4ec9-9c91-ecfa58777881
-G	java:S106#"+Replace this use of System.out by a logger.(ï¤ŽÁ8üà‡ƒí1
+java:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8”·ï‚í1J$9c6a2c66-662f-4940-ac27-e8067d591c4a
+m	java:S106#"+Replace this use of System.out by a logger.(ï¤ŽÁ8üà‡ƒí1J$bcc0894e-dd95-442f-893a-ff6498d3678b

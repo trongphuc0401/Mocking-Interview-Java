@@ -1,0 +1,37 @@
+
+r
+java:S3740"/Provide the parametrized type for this generic.(À–ìö8êÁëı1J$941f8e42-86a6-4636-96ae-38607a0529e8
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ç†óŠÿÿÿÿÿ8íÁëı1J$ed8b2181-814b-45e1-a8a4-38aba8e32bfc
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Éßíıÿÿÿÿ8îÁëı1J$aa590cce-1cd7-42ba-81c1-4b79a94410b7
+	java:S116"VRename this field "thÃªmButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥–‰†ÿÿÿÿÿ8ÿÁëı1J$66319ca8-7489-4520-bb58-1de822c40401
+¢	java:S116"[Rename this field "xÃ³aRá»—ngButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒÉúıÿÿÿÿ8ÿÁëı1J$42ff60f8-1e30-4b3b-81cb-e9f2265a4d3a
+˜	java:S116"VRename this field "sá»­aButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(á­ìå8ÿÁëı1J$014c926d-f617-49c5-ad25-bdcb4d6a46c9
+œ	java:S116"URename this field "xÃ³aButton" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…­Ô¡ùÿÿÿÿ8ÿÁëı1J$4609f0c4-9a16-415a-80f0-9911d11bfee1
+Œ
+java:S32528"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(¢¡´8‰Âëı1J$d3063b35-017c-40c8-8baf-1e7bc194bd78
+q
+java:S1068".Remove this unused "textField1" private field.(×ŒàÌ8‹Âëı1J$07c2da46-9414-4e4b-8b38-e93bbb4530fe
+v
+java:S1068".Remove this unused "textField2" private field.(ˆûÓ‘ûÿÿÿÿ8ŒÂëı1J$3caa2fdf-753e-4050-a9f1-f3502519f825
+v
+java:S1068".Remove this unused "textField3" private field.(”€†ğşÿÿÿÿ8ŒÂëı1J$7d89b480-2de0-4524-afeb-b2bf187b4783
+v
+java:S1068".Remove this unused "textField4" private field.(ÌÁ¿Šúÿÿÿÿ8ŒÂëı1J$8e489a6e-573a-42ae-82ba-ac315eab4856
+v
+java:S1068".Remove this unused "textField5" private field.(ó²ÀÁşÿÿÿÿ8ŒÂëı1J$cfac9bb9-38d6-4482-b9d7-b66997ab7b74
+v
+java:S1068".Remove this unused "textField6" private field.(¥¼çâıÿÿÿÿ8ŒÂëı1J$64048905-54d2-4ef0-bcb7-41f55b572d80
+q
+java:S1068".Remove this unused "textField7" private field.(£çŠÔ8ŒÂëı1J$b8d9f034-c5fc-42b9-aa22-6b109b97ee7f
+v
+java:S1068".Remove this unused "textField8" private field.(¡ââ—ùÿÿÿÿ8ŒÂëı1J$d319dae9-5157-4ccb-b099-b31628144e40
+w
+java:S1068"/Remove this unused "thÃªmButton" private field.(¥–‰†ÿÿÿÿÿ8ŒÂëı1J$26b2f35e-acfd-4f75-b33b-63261ce2c88a
+|
+java:S1068"4Remove this unused "xÃ³aRá»—ngButton" private field.(ƒÉúıÿÿÿÿ8ŒÂëı1J$08bbd94e-d09c-49ea-8da8-b398d57eb0aa
+r
+java:S1068"/Remove this unused "sá»­aButton" private field.(á­ìå8ŒÂëı1J$d05e9922-6c89-4d6a-aa91-6c894d195af6
+v
+java:S1068".Remove this unused "xÃ³aButton" private field.(…­Ô¡ùÿÿÿÿ8ŒÂëı1J$865d1e20-47eb-490f-a174-21fd3586ec09
+p
+java:S1068"-Remove this unused "comboBox1" private field.(À–ìö8ŒÂëı1J$4378e56b-3023-477a-83d9-9c10f0bc1765

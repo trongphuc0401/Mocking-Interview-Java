@@ -1,9 +1,9 @@
 
 	java:S101
-"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿÄôûÿÿÿÿJ$6e903082-b5af-41b1-a1a4-f6962afce8d4
-š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿJ$4b64bb85-9ded-457f-b596-d5e199654245
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÿÄôûÿÿÿÿJ$a5f2a50a-8e1e-41ab-a0a3-693857f506e2
+š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿJ$7e79dc0b-b9a8-4dd0-aad7-68cb4c8edfba
 ƒ
 java:S2094
-"BRemove this empty class, write its code or make it an "interface".(ÿÄôûÿÿÿÿJ$7cf52c50-7f66-4a60-a3fa-a0da90d913ce
+"BRemove this empty class, write its code or make it an "interface".(ÿÄôûÿÿÿÿJ$540cda5f-1187-4f1c-be42-5dc8716bd8d5
 n
-java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜ÉüÿÿÿÿJ$a8ee7253-bdc8-432c-b9b9-dfb954ca01c3
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜ÉüÿÿÿÿJ$4e0ca2cf-c12a-4234-a380-ca4167eaf056

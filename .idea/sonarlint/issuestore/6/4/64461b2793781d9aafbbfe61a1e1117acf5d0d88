@@ -1,0 +1,8 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(îµèÒ8è÷×µ›2J$a7f469d4-4935-444e-9f41-0fbae2dfb918
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8ê÷×µ›2J$9a543b05-918c-4893-be28-153bce898d95
+r	java:S106@"+Replace this use of System.out by a logger.(ïµéşÿÿÿÿÿ8‘ø×µ›2J$f77dc152-2955-4264-bd35-868967373568
+t
+java:S1128"1Remove this unused import 'java.math.BigDecimal'.(êêŠ8µ¡İµ›2J$ad6cdd20-5fbb-4f8b-8715-2bb06ced4d7b
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8µ¡İµ›2J$ecb3b95b-864d-43a4-8392-686cd6c23313

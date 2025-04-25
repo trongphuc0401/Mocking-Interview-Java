@@ -1,16 +1,16 @@
 
-¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ®Ñ£øÿÿÿÿ8ßÏ›ñ1J$5ab8a76a-b325-424e-bad0-d9ac61380f35
-r	java:S106"+Replace this use of System.out by a logger.(€Åã¼øÿÿÿÿ8êÏ›ñ1J$64352291-94d8-4e00-8ceb-9d8b2a5f65d1
-l	java:S106"+Replace this use of System.out by a logger.(·Â78ìÏ›ñ1J$9600c197-1943-48eb-8635-00edc998448c
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ®Ñ£øÿÿÿÿ8ßÏ›ñ1J$50a4d4aa-9a16-488c-ba6b-1cdb3cf9c038
+r	java:S106"+Replace this use of System.out by a logger.(€Åã¼øÿÿÿÿ8êÏ›ñ1J$108a6223-2d98-426e-8935-a30875b5efd6
+l	java:S106"+Replace this use of System.out by a logger.(·Â78ìÏ›ñ1J$c316eeeb-7ed0-434d-9e2e-d571b86c6e43
 ¡
-java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8îÏ›ñ1J$61fa0320-8b81-4ba8-bd22-e623d6578a50
-m	java:S106"+Replace this use of System.out by a logger.(ÚÊâ»8ïÏ›ñ1J$21799f24-42af-49bc-b200-860ae6bd5ced
-r	java:S106"+Replace this use of System.out by a logger.(Ÿ«âçıÿÿÿÿ8ğÏ›ñ1J$4bd87915-d79a-4552-afae-b3387bcbee95
-l	java:S106"+Replace this use of System.out by a logger.(Çğõ"8ğÏ›ñ1J$49bf5e64-8124-4da3-8bd1-346c378f164e
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8îÏ›ñ1J$700a4045-0ee6-42d2-98d8-2ad2e16ce265
+m	java:S106"+Replace this use of System.out by a logger.(ÚÊâ»8ïÏ›ñ1J$e828dd19-72f4-400d-9efc-597705449a0e
+r	java:S106"+Replace this use of System.out by a logger.(Ÿ«âçıÿÿÿÿ8ğÏ›ñ1J$592b9ddf-38ce-434c-b096-ebf2e57b6608
+l	java:S106"+Replace this use of System.out by a logger.(Çğõ"8ğÏ›ñ1J$4b81f784-1058-4e50-b5d5-f1aa3616ef49
 |
-java:S1161":Add the "@Override" annotation above this method signature(ú¡­,8òÏ›ñ1J$70c218b9-79b9-420f-8ef1-b4c98a2cba6d
+java:S1161":Add the "@Override" annotation above this method signature(ú¡­,8òÏ›ñ1J$e14964e3-f2f3-48bf-af08-bc31c8a245c8
 ‹
-java:S3551"IMake this method "synchronized" to match the parent class implementation.(ú¡­,8óÏ›ñ1J$d857f1f0-add9-43eb-a15d-0bfaeac8697d
-r	java:S106 "+Replace this use of System.out by a logger.(³œ°ÿÿÿÿÿ8óÏ›ñ1J$e08d8c3f-0829-40b5-9fd1-d3ff6e0f76ae
+java:S3551"IMake this method "synchronized" to match the parent class implementation.(ú¡­,8óÏ›ñ1J$e0d999c2-35e2-4adb-bee9-99cf6b03b50c
+r	java:S106 "+Replace this use of System.out by a logger.(³œ°ÿÿÿÿÿ8óÏ›ñ1J$de336a54-0805-4729-878e-a44a3bef3b8f
 ƒ
-java:S2438#";Replace "this" of type Thread with an instance of Runnable.(Óå¾šúÿÿÿÿ8õÏ›ñ1J$aa9fc692-b848-40dd-b023-ef40a5c9d54b
+java:S2438#";Replace "this" of type Thread with an instance of Runnable.(Óå¾šúÿÿÿÿ8õÏ›ñ1J$93db6b37-fef2-4a42-813c-9a7274d1cc4f

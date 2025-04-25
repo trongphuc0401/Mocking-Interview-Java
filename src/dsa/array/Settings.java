@@ -2,6 +2,14 @@ package dsa.array;
 
 public class Settings {
 
+    /**
+     * Insert element into array
+     * @param arr
+     * @param n
+     * @param key
+     * @param capicity
+     * @return
+     */
     public static int insert(int arr[], int n, int key, int capicity) {
         if (n >= capicity) {
             return n;
@@ -10,6 +18,13 @@ public class Settings {
         return n + 1;
     }
 
+    /**
+     * Đây là hàm insert Element của em
+     * @param arr
+     * @param n
+     * @param x
+     * @param pos
+     */
     public static void insertElement(int arr[], int n, int x, int pos) {
         for (int i = n - 1; i >= pos; i--) {
             arr[i + 1] = arr[i];

@@ -7,7 +7,7 @@ import java.io.ObjectInputStream;
 public class DeserializationISExample {
     public static void main(String[] args) throws Exception {
         ObjectInputStream ois = null;
-        String filePath = "E:/Interview_Java/Interview/src/data/engineer.txt";
+        String filePath = "E:/Interview_Java/Mocking-Interview-Java/src/data/engineer.txt";
         try {
             ois = new ObjectInputStream(new FileInputStream(filePath));
             Engineer engineer = (Engineer) ois.readObject();

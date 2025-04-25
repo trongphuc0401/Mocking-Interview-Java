@@ -1,0 +1,9 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´Æ·ÿÿÿÿÿ8ïŸì‰2J$83400c14-e07a-43c4-800c-042ec113416e
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‡áº´úÿÿÿÿ8ğŸì‰2J$03724bdf-209b-44f6-bbe5-cf67c7817b38
+k
+java:S1659 "#Declare "nums2" on a separate line.(•¤üéúÿÿÿÿ8ûŸì‰2J$0ee5954a-91ae-4c10-9347-445dceab2700
+g
+java:S1659!"Declare "n" on a separate line.(²ÃêÌûÿÿÿÿ8ûŸì‰2J$c9960069-68c6-49e9-93ad-fa09554e6889
+u
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ıŸì‰2J$25863371-6c98-4475-aa70-a0f150606860

@@ -1,10 +1,10 @@
 
-›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÁ.8úÊÆó1J$011e31b3-150d-4f3e-a805-fa605465c10b
+›	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÍÁ.8úÊÆó1J$13d22dbb-fa1b-4b77-a83d-b84c7fcb0921
 ƒ
-java:S2259"AA "NullPointerException" could be thrown; "oos" is nullable here.(İÛĞK8úÊÆó1J$185d892e-f38e-4305-ae55-7ef5938c2b22
-„
+java:S2259"AA "NullPointerException" could be thrown; "oos" is nullable here.(İÛĞK8úÊÆó1J$e5f9045e-7c44-4bdf-b54c-b8684137eba0
+‰
 java:S1075
-"ARefactor your code to get this URI from a customizable parameter.(¶¹á8”úÊÆó1J$129645f3-bbd9-462c-a7e8-72e28e5c108c
+"ARefactor your code to get this URI from a customizable parameter.(É›ÆÍùÿÿÿÿ8”úÊÆó1J$f6b35eab-cd6f-46ef-b5d2-b15def3da242
 r
-java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8›úÊÆó1J$942e7503-9435-48dc-8b52-e6885fd53631
-m	java:S106"+Replace this use of System.out by a logger.(¥¾¯º8úÊÆó1J$9ab4cce7-740a-492c-b45b-9222f0c9695e
+java:S2093"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8›úÊÆó1J$5f8f6a62-d4ed-42b7-862c-e485532146a2
+m	java:S106"+Replace this use of System.out by a logger.(¥¾¯º8úÊÆó1J$80b8f26d-d619-492d-893c-a355de56ba0f
